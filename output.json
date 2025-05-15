@@ -1,0 +1,1982 @@
+[
+    {
+        "question": "<s>[INST] What is the first step in calibrating the magnetic compass of the Spider-I UAV drone? [/INST] To calibrate the magnetic compass of the drone, you must rotate it clockwise with the drone as the center of the rotation, rather than rotating around yourself, and quickly toggle the mode switch during this process. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it essential to calibrate the magnetic compass before the drone's first flight? [/INST] Calibrating the magnetic compass is essential before the drone's first flight to ensure accurate navigation and prevent potential crashes. </s>"
+    },
+    {
+        "question": "<s>[INST] What indicates that the drone is ready for calibration? [/INST] The drone's tail LED will turn long yellow when it's ready for calibration. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if the LED turns red during calibration? [/INST] If the LED turns red during calibration, it signifies a failed calibration, and the process must be restarted. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it crucial to wait for the drone to complete its self-check before taking off? [/INST] Waiting for the drone to complete its self-check before taking off is crucial to ensure that all systems are functioning properly and to prevent potential crashes. </s>"
+    },
+    {
+        "question": "<s>[INST] What indicates that the self-check has passed? [/INST] A flashing green light indicates that the self-check has passed. </s>"
+    },
+    {
+        "question": "<s>[INST] What can happen if damaged propellers are used on the drone? [/INST] Using damaged propellers can cause imbalance and crash the drone, which is why it's essential to ensure the propellers and their rotation direction match the motor's rotation direction. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it essential to turn on the remote control first before powering the drone? [/INST] Turning on the remote control first before powering the drone is essential to establish a connection between the drone and the remote control and to prevent potential accidents. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be checked on the remote control before each use? [/INST] The remote control's battery should be checked before each use to ensure it has enough power to control the drone during flight. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it crucial to use two batteries with similar charge levels in the drone? [/INST] Using two batteries with similar charge levels is crucial to prevent the risk of the drone crashing during flight due to a significant discrepancy in battery power. </s>"
+    },
+    {
+        "question": "<s>[INST] What does the alternating green and yellow flashing of the tail LED lights on the Spider-I UAV indicate? [/INST] The alternating green and yellow flashing of the tail LED lights on the Spider-I UAV indicates a low battery, and if freshly charged batteries show this pattern, it may indicate interference. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended distance to maintain from people during takeoff, landing, and flight of the Spider-I UAV? [/INST] The recommended distance to maintain from people during takeoff, landing, and flight of the Spider-I UAV is at least 10 meters to avoid collisions and ensure safety. </s>"
+    },
+    {
+        "question": "<s>[INST] How should the remote control antenna be positioned for optimal signal reception? [/INST] The remote control antenna should be positioned horizontally for optimal signal reception, and it is best to stand to the left rear of the drone during flight for better signal reception. </s>"
+    },
+    {
+        "question": "<s>[INST] What precaution should be taken when adding pesticides to the tank to prevent blockages in the nozzle or pump? [/INST] When adding pesticides to the tank, a filter should be used at the inlet to prevent blockages in the nozzle or pump from debris or unevenly mixed chemicals, and care should be taken to avoid splashing the drone with chemicals. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended procedure for cleaning the drone's tank and tubes after daily operations? [/INST] After daily operations, clean water should be added to the tank and sprayed out using the pump to clean residual chemicals from the tank and tubes, and the nozzle and its internal filter should be detached and cleaned separately. </s>"
+    },
+    {
+        "question": "<s>[INST] How should the drone's body and components be cleaned after spraying to prevent oxidation? [/INST] The drone's body and components, such as the landing gear, propellers, arms, and chemical tank surface, should be cleaned with a towel or soft cloth after spraying to prevent oxidation and extend the drone's lifespan. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important to place the GPS at the forefront according to the indicated arrow? [/INST] The GPS should be placed at the forefront according to the indicated arrow to ensure accurate navigation and prevent interference. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the risks of operating the drone in rainy weather? [/INST] Operating the drone in rainy weather can cause interference, and there is a risk of short circuits and potential hazards if the drone's battery and connections are exposed to water. </s>"
+    },
+    {
+        "question": "<s>[INST] How should the drone's battery and connections be protected from water? [/INST] The drone's battery and connections should be protected from water to avoid short circuits and potential hazards, and the battery should be stored in a dry, normal temperature environment away from flammable materials and direct sunlight. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the proper way to store the drone's battery for long-term storage? [/INST] The drone's battery should be stored in a cool, dry place, away from flammable materials and direct sunlight, and for long-term storage, the battery should be charged to around 3.85V per cell to maintain its lifespan. </s>"
+    },
+    {
+        "question": "<s>[INST] What precautions should be taken when handling lithium batteries in the Spider-I UAV? [/INST] When handling lithium batteries in the Spider-I UAV, precautions such as not puncturing the battery, avoiding exposure to impacts, and charging in well-ventilated areas should be taken to prevent safety hazards. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens to lithium batteries in low temperatures? [/INST] In low temperatures, lithium batteries experience a notable decrease in charge capacity and reduced battery life due to the diminished activity of lithium ions. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important to maintain a clear line of sight with the drone during operation? [/INST] Maintaining a clear line of sight with the drone during operation is important to avoid obstructions or excessive distance that can affect the remote control signal and the drone's stability. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if the drone crashes due to improper use or operational errors? [/INST] If the drone crashes due to improper use or operational errors, the motors should be immediately locked using the remote control to prevent the propellers from continuing to spin, and any visible deformation in the propeller clamps should be checked and replaced if necessary. </s>"
+    },
+    {
+        "question": "<s>[INST] How can the risk of drone crashes be increased? [/INST] The use of ground stations can increase the risk of drone crashes, and it is recommended to minimize their use. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended procedure for switching modes during flight? [/INST] When switching modes during flight, the throttle must be in the neutral position to ensure a safe and stable transition. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be checked before flying a drone with folding propellers? [/INST] Before flying a drone with folding propellers, the propeller blades should be checked to ensure they are neither too loose nor too tight to prevent any damage or instability during flight. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of locking the motors using the remote control after flying or a crash? [/INST] Locking the motors using the remote control after flying or a crash is important to prevent the propellers from continuing to spin and to ensure the drone's safety and stability. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if a battery bursts during charging? [/INST] If a battery bursts during charging, it can emit smoke and melted material, and having sand ready for extinguishing any fire is effective and necessary. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the effect of puncturing a lithium battery? [/INST] Puncturing a lithium battery can cause internal short-circuiting, leading to safety hazards, and it is essential to avoid any damage to the battery to prevent such situations. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the proper procedure for unlocking the Spider-I UAV controls? [/INST] To unlock the Spider-I UAV controls, pull the controls inward and downward, which will release the lock and allow for operation. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it essential to check the drone's components daily? [/INST] Checking the drone's components daily is crucial to ensure that all parts are secure and functioning properly, which helps prevent accidents and maintains the drone's overall performance. </s>"
+    },
+    {
+        "question": "<s>[INST] What precautions should be taken when hovering the drone without spraying? [/INST] When hovering the drone without spraying, it is essential to add less liquid to avoid any potential issues, and always pay attention to the battery level to prevent power loss. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended position for operating the drone during fruit tree operations? [/INST] During fruit tree operations, it is recommended to stand at an elevated position or on top of a vehicle to be at the same level as the tree tops, preventing signal blind spots due to angles. </s>"
+    },
+    {
+        "question": "<s>[INST] What safety distance should be maintained from field edges during takeoff and landing? [/INST] A safe distance of at least 10 meters should be maintained from field edges during takeoff, landing, and line changes to ensure the drone's safety and prevent potential collisions. </s>"
+    },
+    {
+        "question": "<s>[INST] What factors can interfere with signal quality during field mapping and drone calibration? [/INST] Factors such as high-voltage lines, transformers, houses, and trees can interfere with signal quality during field mapping and drone calibration, leading to inaccuracies and poor performance. </s>"
+    },
+    {
+        "question": "<s>[INST] How should the mapping device be positioned during the initial location phase? [/INST] The mapping device should be positioned vertically without tilting and held steady in an open area for three to five minutes to allow it to locate itself and ensure good or excellent signal strength. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the importance of powering off the drone when marking points with the mapper? [/INST] Powering off the drone when marking points with the mapper is essential to enable the use of RTK mode for accurate point collection, as connecting the drone to a power source during this process can prevent RTK mode from functioning correctly. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the key points to check when the water pump experiences insufficient pressure? [/INST] When the water pump experiences insufficient pressure, key points to check include the nozzle, spray core, pressure relief valve, flow meter, and the pump itself to identify and address any issues. </s>"
+    },
+    {
+        "question": "<s>[INST] How should the pump be cleaned to avoid complications during reassembly? [/INST] The pump should be cleaned one side at a time, reassembling it after cleaning the first side, and then cleaning the other side to avoid complications during reassembly and ensure proper functioning. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended procedure for removing bubbles at the water outlet in the Spider-I UAV? [/INST] To remove bubbles at the water outlet, one should remove the inlet pipe, cut about one centimeter off, and reinsert it firmly to the end, ensuring the insertion depth is about one centimeter. </s>"
+    },
+    {
+        "question": "<s>[INST] How often should the screws on the drone be tightened to ensure they are secure? [/INST] The screws on the drone should be tightened every two days to ensure they are secure. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of applying thread-locking fluid when replacing propeller clamp screws? [/INST] Applying thread-locking fluid when replacing propeller clamp screws helps prevent the screws from loosening over time due to vibration and other factors. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if the drone exhibits unusual behaviors such as significant wobbling or body rotation during autonomous flight? [/INST] If the drone exhibits unusual behaviors such as significant wobbling or body rotation during autonomous flight, one should stop using autonomous mode and switch to attitude mode instead. </s>"
+    },
+    {
+        "question": "<s>[INST] How can one prevent short circuits and fires in the drone's power connectors? [/INST] To prevent short circuits and fires in the drone's power connectors, it is essential to keep the contacts on both the drone and the battery clean, and regularly clean them with high-proof alcohol. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the importance of keeping the battery contacts on both the drone and the battery clean? [/INST] Keeping the battery contacts on both the drone and the battery clean is crucial to ensure a reliable connection and prevent power issues during flight. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if the flow meter indicates an empty tank but the tank still has pesticides during fully autonomous flight? [/INST] If the flow meter indicates an empty tank but the tank still has pesticides during fully autonomous flight, the first step is to disassemble and clean the flow meter, and if the issue persists, replace the flow meter with a new one. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it essential to carefully inspect the carbon fiber tubes of the drone's arms? [/INST] Carefully inspecting the carbon fiber tubes of the drone's arms is essential to detect any cracks or breakage, which can cause injuries or crashes, as carbon fiber can break once cracked. </s>"
+    },
+    {
+        "question": "<s>[INST] How often should the propeller clamp screws be replaced for drones using x8 power? [/INST] For drones using x8 power, the propeller clamp screws should be replaced approximately every seven days. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended procedure for powering up and disconnecting the drone before and after flight? [/INST] The recommended procedure for powering up and disconnecting the drone is to power it up before flight, and disconnect immediately after landing, ensuring the area is clear before doing so. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the proper procedure for powering up the Spider-I UAV drone? [/INST] The proper procedure for powering up the Spider-I UAV drone involves powering up and disconnecting the batteries quickly and efficiently, then moving away from the drone to a safe area. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of pesticides should be avoided when using the drone for agricultural purposes? [/INST] Powdered pesticides should be avoided as much as possible, as they may affect the lifespan of the spraying system. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the importance of wearing protective gear during pesticide application? [/INST] Wearing protective gear during pesticide application is crucial to prevent direct contact with the skin and potential harm from drifting chemicals. </s>"
+    },
+    {
+        "question": "<s>[INST] How should the drone be transported to prevent damage? [/INST] The drone should be kept level and the folding sections securely fixed to prevent unforeseen damage caused by severe jolting during transport. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the correct way to lift the drone when carrying it? [/INST] The drone should be lifted near the central plate, rather than by the outer carbon tube parts of the folding sections, to avoid reducing the machine's lifespan or causing damage. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done in case of a blockage during pesticide application? [/INST] In case of a blockage during pesticide application, the filter should be cleaned promptly before continuing to prevent any further issues. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it essential to follow the safety instructions provided by the pesticide manufacturer? [/INST] Following the safety instructions provided by the pesticide manufacturer is essential to ensure safe handling and application of pesticides. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be used to mix pesticides to prevent impurities from clogging the filter? [/INST] Clean water should be used to mix pesticides, and the solution should be filtered before adding it to the operational tank to prevent impurities from clogging the filter. </s>"
+    },
+    {
+        "question": "<s>[INST] What precautions should be taken to avoid contaminating rivers and drinking water sources during pesticide application? [/INST] Precautions such as avoiding application near rivers and drinking water sources, and ensuring personnel are upwind, should be taken to prevent contamination during pesticide application. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of liquids should not be used with the drone's spraying system? [/INST] Strong acids, strong alkalis, high-temperature liquids, or other prohibited pesticides should not be used with the drone's spraying system to prevent damage or harm. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended minimum distance to keep from field edges and obstacles when operating a large payload agricultural drone? [/INST] The recommended minimum distance to keep from field edges and obstacles when operating a large payload agricultural drone is 10 meters. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the braking distance of a large payload agricultural drone compare to a small one? [/INST] Larger drones have a longer braking distance compared to small agricultural drones. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the optimal flight speed for managing braking distance effectively in agricultural drones? [/INST] The optimal flight speed for managing braking distance effectively in agricultural drones is between 5-7 meters per second. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the minimum lateral spray movement recommended for agricultural drones? [/INST] The minimum lateral spray movement recommended for agricultural drones is 4 meters, with 6-10 meters being most effective. </s>"
+    },
+    {
+        "question": "<s>[INST] At what height should agricultural drones be flown in windless conditions? [/INST] In windless conditions, agricultural drones should be flown at a minimum height of 3.5 meters, with 3.5-4 meters being recommended. </s>"
+    },
+    {
+        "question": "<s>[INST] How often should components such as arm screws, propeller clamps, and blades be replaced in heavy drones? [/INST] Components such as arm screws, propeller clamps, and blades in heavy drones should be replaced after about 10,000 acres due to increased wear. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important to set no-spray points within 50 meters of the takeoff point for heavy drones? [/INST] It is important to set no-spray points within 50 meters of the takeoff point for heavy drones due to the high battery load during full-load flights. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended setting for the water pump in agricultural drones? [/INST] The water pump in agricultural drones should be set to the maximum flow rate, without alternating between front and rear spraying. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of sealing the data transmission line after every use? [/INST] The data transmission line should be sealed after every use to prevent damage and ensure reliable data transmission. </s>"
+    },
+    {
+        "question": "<s>[INST] How often should the drone end plug be replaced, and what is the recommended method for daily cleaning? [/INST] The drone end plug should be replaced after 150 uses, and the contacts should be cleaned daily using anhydrous alcohol. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary benefit of the modular design of functional components in the Spider-I UAV? [/INST] The primary benefit of the modular design of functional components in the Spider-I UAV is that it facilitates easy maintenance and upgrades, allowing for efficient and cost-effective operation. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Quick-Plug Tank feature enhance the efficiency of the drone's operations? [/INST] The Quick-Plug Tank feature enhances the efficiency of the drone's operations by allowing for quick attachment and detachment of the pesticide tank, enabling rapid refilling and minimizing downtime. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Spraying & Spreading Dual System in the Spider-I UAV? [/INST] The Spraying & Spreading Dual System in the Spider-I UAV is designed to allow for both spraying and spreading applications, making it a versatile tool for various agricultural tasks and enhancing its overall functionality. </s>"
+    },
+    {
+        "question": "<s>[INST] What material is used to make the drone's body, and what are its notable properties? [/INST] The drone's body is made of Carbon fiber and 7075 aviation-grade aluminum, which are known for their strength and lightweight properties, making the drone durable and efficient. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the significance of the Intelligent Plug-in Battery system in the Spider-I UAV? [/INST] The Intelligent Plug-in Battery system in the Spider-I UAV allows for easy plug-in and plug-out of the battery, making it convenient to replace or recharge the battery as needed. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Closed Fuselage Design contribute to the safety of the drone's operations? [/INST] The Closed Fuselage Design contributes to the safety of the drone's operations by preventing pesticides from entering the flight control system, ensuring safe and reliable long-term operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the Built-in GPS and Compass Module in the drone's flight capabilities? [/INST] The Built-in GPS and Compass Module enables the drone to maintain precise spray heights and routes during operation, allowing for fixed-height and fixed-point flight capabilities. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the advantage of the Adjustable Height and Speed Limits for Spraying feature in the Spider-I UAV? [/INST] The Adjustable Height and Speed Limits for Spraying feature in the Spider-I UAV allows for setting specific height and speed limits for spraying operations, ensuring effective coverage and penetration of the pesticide mist onto the surfaces of leaves. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Automatic Row Change Spraying function enable continuous spraying operations? [/INST] The Automatic Row Change Spraying function enables continuous spraying operations by allowing the drone to automatically switch rows during spraying, making it an efficient tool for large-scale agricultural tasks. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the One-Button Recording of No-Spray Points feature during spraying operations? [/INST] The One-Button Recording of No-Spray Points feature during spraying operations allows the user to easily record areas where spraying should be avoided, ensuring that the drone can autonomously navigate and spray around these areas. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when the drone's pesticide runs out during spraying? [/INST] When the drone's pesticide runs out during spraying, it automatically records the no-spray point and returns to the takeoff point to refill. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone prevent double spraying after refilling the pesticide? [/INST] The drone prevents double spraying after refilling the pesticide by automatically returning to the last no-spray point and avoiding spraying until it reaches the uncompleted area. </s>"
+    },
+    {
+        "question": "<s>[INST] What triggers the drone's automatic return to the takeoff point for a battery change? [/INST] The drone's automatic return to the takeoff point for a battery change is triggered when the battery runs low during spraying. </s>"
+    },
+    {
+        "question": "<s>[INST] What safety feature does the drone have in case of operator error? [/INST] In case of operator error, the drone automatically returns to the takeoff point and hovers safely in the sky to prevent crashes or accidents. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone adjust its height above crops during spraying? [/INST] The drone adjusts its height above crops during spraying by using the Radar Terrain-Following Altitude Control feature, which automatically adjusts the drone's height based on terrain changes. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Radar Terrain-Following Altitude Control feature? [/INST] The purpose of the Radar Terrain-Following Altitude Control feature is to ensure the drone maintains a consistent and optimal spray height above the crops, regardless of terrain changes. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the drone detect and avoid obstacles during autonomous operation? [/INST] Yes, the drone can detect and avoid obstacles during autonomous operation using its Automatic Obstacle Avoidance feature. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone ensure it resumes spraying from the correct location after a battery change? [/INST] The drone ensures it resumes spraying from the correct location after a battery change by recording the no-spray point before returning to the takeoff point and then resuming from that point after the battery change. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the benefit of the One-Button Return to No-Spray Point feature? [/INST] The One-Button Return to No-Spray Point feature allows the drone to quickly and easily return to the last no-spray point after refilling the pesticide, making the spraying process more efficient. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone's automatic return feature contribute to efficient agricultural spraying? [/INST] The drone's automatic return feature contributes to efficient agricultural spraying by minimizing downtime, reducing the risk of accidents, and ensuring that the drone resumes spraying from the correct location after a interruption. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the main components of a quadcopter drone? [/INST] The main components of a quadcopter drone include the frame, motors, propellers, and flight controller. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary difference between a quadcopter and an octocopter? [/INST] The primary difference between a quadcopter and an octocopter is the number of axes, with a quadcopter having four axes and an octocopter having eight axes. </s>"
+    },
+    {
+        "question": "<s>[INST] How many axes does a quadcopter have? [/INST] A quadcopter has four axes, which provide stability and maneuverability during flight. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the benefits of using a quadcopter for agricultural purposes? [/INST] The benefits of using a quadcopter for agricultural purposes include increased efficiency, reduced labor costs, and improved crop monitoring. </s>"
+    },
+    {
+        "question": "<s>[INST] Can an octocopter be used for agricultural applications? [/INST] Yes, an octocopter can be used for agricultural applications, such as crop spraying and monitoring, due to its increased stability and payload capacity. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the key features of a quadcopter drone? [/INST] The key features of a quadcopter drone include its compact design, ease of use, and ability to capture high-quality aerial footage. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the number of axes affect the stability of a drone? [/INST] The number of axes on a drone affects its stability, with more axes generally providing greater stability and control. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Spider-I UAV User Manual? [/INST] The purpose of the Spider-I UAV User Manual is to provide users with a comprehensive guide to operating and maintaining their Spider-I UAV drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of drone is commonly used in agricultural settings? [/INST] Quadcopters are commonly used in agricultural settings due to their versatility, ease of use, and ability to navigate through tight spaces. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the advantages of using an octocopter over a quadcopter? [/INST] The advantages of using an octocopter over a quadcopter include increased payload capacity, improved stability, and enhanced maneuverability. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary function of the Altitude Hold Mode in the Spider-I UAV? [/INST] The primary function of the Altitude Hold Mode is to allow the drone to autonomously maintain its attitude when the joystick is centered, although it may require manual correction for precise point hovering. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Position Hold Mode contribute to the drone's overall performance? [/INST] The Position Hold Mode enables high-precision stationary hovering and speed limitations when satellite signals are strong, contributing to the drone's overall performance and stability. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the main difference between the GNSS Assist Mode and the Position Hold Mode? [/INST] The main difference between the GNSS Assist Mode and the Position Hold Mode is the addition of angle restrictions in the GNSS Assist Mode, which allows for more precise control over the drone's movement. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the Return to Home Mode be used without strong satellite signals? [/INST] No, the Return to Home Mode relies on satellites to fly from the current position to the home location and hover, so strong satellite signals are required for this mode to function. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Full Autonomous Mode in the Spider-I UAV? [/INST] The purpose of the Full Autonomous Mode is to enable the drone to fly autonomously following a mission route set by the ground station, relying on satellite signals for navigation and control. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the AB Point Mode enable semi-autonomous flight? [/INST] The AB Point Mode enables semi-autonomous flight by allowing the drone to fly between preset A and B points, dependent on satellite signals, while still enabling throttle control over altitude. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the throttle in the Full Autonomous Mode? [/INST] In the Full Autonomous Mode, the throttle can still be used to control altitude, and centering the throttle will maintain the current altitude, providing some level of manual control. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone maintain its attitude in the Altitude Hold Mode? [/INST] In the Altitude Hold Mode, the drone maintains its attitude when the joystick is centered, although mid-throttle can also help maintain altitude, but with less precision. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the requirements for the Position Hold Mode to function effectively? [/INST] The Position Hold Mode requires strong satellite signals to function effectively and enable high-precision stationary hovering and speed limitations. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the drone achieve precise point hovering in the Altitude Hold Mode? [/INST] No, the Altitude Hold Mode does not allow for precise point hovering, as it may require manual correction, and the drone's ability to maintain its position is limited. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the modes that can be unlocked in the Spider-I UAV? [/INST] The modes that can be unlocked in the Spider-I UAV are Altitude Hold Mode, GNSS Assist Mode, and Position Hold Mode. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you unlock the Altitude Hold Mode in the Spider-I UAV? [/INST] The Altitude Hold Mode can be unlocked after self-check completion by maximizing pitch, minimizing throttle, fully turning the rudder to the right, and rolling fully to the left. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the indication of successful unlocking in the Spider-I UAV? [/INST] The indication of successful unlocking in the Spider-I UAV is the status indicator light changing from flashing to steady. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the requirements for unlocking the GNSS Assist Mode and Position Hold Mode? [/INST] The GNSS Assist Mode and Position Hold Mode require satellite positioning, indicated by a green light flashing, to be unlocked. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens to the motors after unlocking the Spider-I UAV? [/INST] After unlocking the Spider-I UAV, the motors enter idle mode. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you lock the Spider-I UAV? [/INST] The Spider-I UAV can be locked by maximizing pitch, minimizing throttle, fully turning the rudder to the left, and rolling fully to the right. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the indication of successful locking in the Spider-I UAV? [/INST] The indication of successful locking in the Spider-I UAV is the status light starting to flash. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the caution when performing the stick action to lock the motors? [/INST] The caution when performing the stick action to lock the motors is not to do it during flight, as the motors will stop immediately. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the automatic locking feature in the Spider-I UAV? [/INST] The automatic locking feature in the Spider-I UAV occurs when the drone is unlocked but not taken off, with the throttle at the lowest, and no action is taken within 3 seconds. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the automatic landing detection feature in the Spider-I UAV? [/INST] The automatic landing detection feature in the Spider-I UAV controls the motors to stop, except in Attitude-Stabilization mode, and is available in all flight modes. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when the throttle is pulled to the lowest during flight in modes other than Attitude-Stabilization? [/INST] In modes other than Attitude-Stabilization, pulling the throttle to the lowest during flight will not cause the motors to stop. </s>"
+    },
+    {
+        "question": "<s>[INST] How often should the compass be recalibrated if the drone is moved a significant distance? [/INST] The compass should be recalibrated if the drone is moved more than 200 kilometers. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the first step in calibrating the compass on the Spider-I UAV? [/INST] The first step in calibrating the compass is to quickly toggle the Mode Channel switch more than 6 times. </s>"
+    },
+    {
+        "question": "<s>[INST] What indicates that the drone has entered horizontal compass calibration mode? [/INST] The status light flashing red and blue alternately indicates that the drone has entered horizontal compass calibration mode. </s>"
+    },
+    {
+        "question": "<s>[INST] How should the drone be rotated during horizontal compass calibration? [/INST] The drone should be rotated horizontally and smoothly 360\u00b0 during horizontal compass calibration. </s>"
+    },
+    {
+        "question": "<s>[INST] What indicates the completion of horizontal compass calibration? [/INST] The green light staying on indicates the completion of horizontal compass calibration. </s>"
+    },
+    {
+        "question": "<s>[INST] How should the drone be positioned to start vertical compass calibration? [/INST] The drone's head should be pointed vertically downwards to start vertical compass calibration. </s>"
+    },
+    {
+        "question": "<s>[INST] What indicates the completion of vertical compass calibration? [/INST] The status light stopping flashing and the blue light staying on indicates the completion of vertical compass calibration. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if the red light stays on during calibration, indicating a failure? [/INST] If the red light stays on during calibration, the calibration process should be restarted from step one after powering off. </s>"
+    },
+    {
+        "question": "<s>[INST] What is recommended after completing the compass calibration process? [/INST] After completing the compass calibration process, the drone should be powered off and reconnected before use. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of calibrating the accelerometer in the Spider-I UAV? [/INST] The purpose of calibrating the accelerometer in the Spider-I UAV is to ensure stability and flight safety. </s>"
+    },
+    {
+        "question": "<s>[INST] Where can the accelerometer calibration option be found in the drone's settings? [/INST] The accelerometer calibration option can be found on the 'Device Calibration\u2014Accelerometer' page. </s>"
+    },
+    {
+        "question": "<s>[INST] Is it necessary to recalibrate the accelerometer after purchasing the drone? [/INST] Under normal circumstances, the accelerometer does not require recalibration after purchasing the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the first step in calibrating the accelerometer? [/INST] The first step in calibrating the accelerometer is to enter the 'Device Calibration\u2014Accelerometer' page and click the 'Calibrate' button, then position the drone horizontally. </s>"
+    },
+    {
+        "question": "<s>[INST] How many positions must the drone be placed in to complete the accelerometer calibration? [/INST] The drone must be placed in six different positions to complete the accelerometer calibration. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the benefit of calibrating the accelerometer in the Spider-I UAV? [/INST] The benefit of calibrating the accelerometer in the Spider-I UAV is to ensure the drone's stability and flight safety. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the accelerometer be recalibrated without accessing the 'Device Calibration\u2014Accelerometer' page? [/INST] No, the accelerometer cannot be recalibrated without accessing the 'Device Calibration\u2014Accelerometer' page. </s>"
+    },
+    {
+        "question": "<s>[INST] What types of drones are discussed in the Motor Rotation Direction section of the manual? [/INST] The Motor Rotation Direction section of the manual discusses the X-Type Quadcopter, Hexacopter, and Octocopter models. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the difference between the X-Type Quadcopter, Hexacopter, and Octocopter models? [/INST] The difference between the X-Type Quadcopter, Hexacopter, and Octocopter models lies in the number of axes, with the Quadcopter having 4 axes, the Hexacopter having 6 axes, and the Octocopter having 8 axes. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important to follow the prompts during the accelerometer calibration process? [/INST] It is crucial to follow the prompts during the accelerometer calibration process to ensure the drone is positioned correctly and the calibration is successful. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary purpose of the AB Point Mode in the Spider-I UAV User Manual for Agricultural Drones? [/INST] The primary purpose of the AB Point Mode is to meet the demands for autonomous spraying on small and regularly shaped plots, reducing the operator's workload while ensuring uniformity of spraying. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone execute an L-shaped flight path in AB Point Mode? [/INST] The drone executes an L-shaped flight path in AB Point Mode by controlling the drone to fly towards the nearest point A or B, then hover, waiting for forward/backward fine-tuning or row change commands. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the steps to record point A in the Automatic AB Point Mode? [/INST] To record point A, the user must move channel 8 on the remote control to the highest position, after which the flight indicator light will flash blue and white alternately 4 times, and the ground station will mark 'Point A'. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the significance of the flight indicator light flashing blue and white alternately 4 times during point A recording? [/INST] The flight indicator light flashing blue and white alternately 4 times indicates that point A has been successfully recorded, and the ground station has marked 'Point A'. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone enter operational readiness after planning AB points? [/INST] The drone enters operational readiness after planning AB points and being within 100 meters of either point A or B, at which point it will fly towards the nearest point A or B, then hover, waiting for forward/backward fine-tuning or row change commands. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the procedure to start operations in AB Point Mode? [/INST] To start operations in AB Point Mode, the user must move and hold the roll joystick left/right for more than 1 second and then center it, after which the drone will change rows in the respective direction and fly parallel to the AB line, autonomously turning on the water pump. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone change rows during AB point flight? [/INST] The drone changes rows during AB point flight by moving and holding the roll joystick for 1 second, which causes the drone to directly change rows upon reaching the next point of the spray line and fly to the next point. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens if the roll channel is not moved during flight in AB Point Mode? [/INST] If the roll channel is not moved during flight in AB Point Mode, the drone will hover at the end of a single spray line, waiting for a row change command. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the conditions for row change commands to be effective in AB Point Mode? [/INST] Row change commands are effective only when manual row change is enabled and manual obstacle avoidance is not activated, allowing the drone to continue the spray task after issuing a row change command. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the ground station in marking points A and B during the recording process? [/INST] The ground station plays a crucial role in marking points A and B during the recording process, providing a visual indication of the recorded points and enabling the drone to execute the AB Point Mode. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the position adjustment feature in the Spider-I UAV? [/INST] The position adjustment feature is provided to meet the spraying needs of plots with non-parallel boundaries and to enhance the adaptability of the AB Point Mode. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone adjust its position during spraying operations? [/INST] The drone adjusts its position by moving and holding the pitch joystick for more than 1 second, then centering it, and then moving the roll joystick to change rows. </s>"
+    },
+    {
+        "question": "<s>[INST] What triggers the drone to automatically add a breakpoint and return during flight? [/INST] The drone will automatically add a breakpoint and return if the liquid runs out, battery voltage is low, or the remote control's lost control protection is triggered. </s>"
+    },
+    {
+        "question": "<s>[INST] Can manual breakpoints be added by the user, and if so, how? [/INST] Yes, manual breakpoints can be added by repeatedly moving channel 8 on the remote control. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of clearing AB points, and when is it recommended? [/INST] Clearing AB points is recommended before setting new ones or after completing operations to ensure accurate and efficient spraying operations. </s>"
+    },
+    {
+        "question": "<s>[INST] How is the record breakpoint function affected by the unlocked state? [/INST] The record breakpoint function must be in the unlocked state to be effectively recorded, and restarting the water pump in the unlocked state will automatically overwrite the last recorded breakpoint. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when the drone completes a single L-shaped flight line and hovers? [/INST] When the drone completes a single L-shaped flight line and hovers, the user can adjust its position by moving the pitch and roll joysticks. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the effect of moving the pitch joystick for more than 1 second during flight? [/INST] Moving the pitch joystick for more than 1 second during flight allows the user to adjust the drone's position and determine the starting point of the next row. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone determine the starting point of the next row after changing rows? [/INST] The drone determines the starting point of the next row based on the direction of the pitch joystick movement. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the indication that the AB points have been successfully cleared? [/INST] The successful clearing of AB points is indicated by the indicator light flashing red and blue alternately 4 times. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of overwriting AB point records in the Spider-I UAV User Manual? [/INST] The purpose of overwriting AB point records is to correct errors or update the records without having to clear the existing points and re-mark them. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the manual AB point mode differ from the automatic AB point mode in terms of flexibility and adaptability? [/INST] The manual AB point mode offers more flexibility and adaptability for irregular and small plots in plant protection operations, but it requires significantly more manual input than the automatic AB point mode. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the procedure for re-recording points A and B in the Spider-I UAV? [/INST] To re-record points A and B, users can directly re-record them on the existing basis, and the new points will overwrite the original ones. </s>"
+    },
+    {
+        "question": "<s>[INST] What controls are manually managed by the pilot during flight in manual AB point mode? [/INST] In manual AB point mode, all controls except automatic heading maintenance are manually managed by the pilot, including flight speed, row changing, and breakpoint function. </s>"
+    },
+    {
+        "question": "<s>[INST] How is the flight speed determined in manual AB point mode? [/INST] The flight speed is determined by the extent of pitch input on the remote control, but it won't exceed the set speed limit. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the condition for changing rows in manual AB point mode? [/INST] The timing of row changing is decided by the pilot's roll input, provided that the drone's speed is less than 1m/s at that time. </s>"
+    },
+    {
+        "question": "<s>[INST] How is the breakpoint function generated in manual AB point mode? [/INST] The breakpoint function and generation in manual AB point mode are the same as in automatic AB point mode. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the method for clearing manual AB points in the Spider-I UAV? [/INST] The method for clearing manual AB points is identical to that for automatic AB points. </s>"
+    },
+    {
+        "question": "<s>[INST] How can the distance to point B be extended or shortened when flying from point A to point B? [/INST] The distance to point B can be extended or shortened by pushing the pitch joystick up or down, respectively, when flying from point A to point B. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the no-pesticide alarm in the Spider-I UAV? [/INST] The no-pesticide alarm is activated in AB Point or Full Autonomous modes and alerts the pilot when the pesticide level is depleted, allowing for selective action to be taken. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when the pesticide is depleted in AB Point or Full Autonomous modes? [/INST] When the pesticide is depleted in AB Point or Full Autonomous modes, the drone will record the breakpoint and either return home or hover, which can be reconfirmed through the Execution Action Settings. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Return to Home feature in the Spider-I UAV? [/INST] The Return to Home feature is one of the key safety features for secure flying, which involves the drone climbing to a safe point and hovering, waiting for further instructions. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the drone determine its return point in Automatic RTH mode? [/INST] The drone records the current location as the return point each time the user unlocks the drone, once satellite acquisition is complete and positioning accuracy meets the requirements. </s>"
+    },
+    {
+        "question": "<s>[INST] What triggers the Automatic RTH mode? [/INST] Automatic RTH can be triggered by the joystick or loss of control protection, and if the drone is more than 2 meters from the home point, it will ascend to a set altitude and return home without manual joystick intervention. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the default altitude the drone climbs to during the RTH process? [/INST] The default altitude the drone climbs to during the RTH process is 2 meters, which is adjustable. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the user adjust the return altitude in the RTH process? [/INST] Yes, the user can adjust the return altitude in the RTH process, allowing for customization of the drone's safety features. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when the drone reaches the return point in Automatic RTH mode? [/INST] When the drone reaches the return point in Automatic RTH mode, it hovers for about 3 seconds before slowly descending, and the remote control can guide the drone to find a more suitable landing spot. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Low Battery Protection and Low Voltage Protection feature? [/INST] The Low Battery Protection and Low Voltage Protection feature provides a voltage protection function based on adjustable voltage values, which helps to prevent damage to the drone's battery and ensures safe operation. </s>"
+    },
+    {
+        "question": "<s>[INST] How can users modify the voltage values measured by the flight controller? [/INST] Users can modify the voltage values measured by the flight controller through the ground station, which allows for correction of discrepancies between actual and measured values. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended precaution when engaging Automatic RTH mode near people? [/INST] It is advisable not to engage Automatic RTH mode when the drone is very close to people to avoid accidents, ensuring a safe and controlled landing. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when the flight controller detects the first-level warning voltage in the Spider-I UAV? [/INST] When the flight controller detects the first-level warning voltage, the LED light will flash yellow three times, indicating the need to immediately return and land to replace the battery. </s>"
+    },
+    {
+        "question": "<s>[INST] What does the rapid flashing of the yellow light on the flight controller indicate? [/INST] The rapid flashing of the yellow light on the flight controller indicates that the drone's battery is nearly depleted. </s>"
+    },
+    {
+        "question": "<s>[INST] What does the red and blue alternating flash on the indicator light signify? [/INST] The red and blue alternating flash on the indicator light signifies that the device is not calibrated, and the remote control, compass, and accelerometer need to be checked and calibrated. </s>"
+    },
+    {
+        "question": "<s>[INST] What action should be taken when the yellow light flashes rapidly on the flight controller? [/INST] When the yellow light flashes rapidly on the flight controller, it is necessary to immediately land and replace the battery to prevent power failure during flight. </s>"
+    },
+    {
+        "question": "<s>[INST] What does a purple single flash on the indicator light indicate? [/INST] A purple single flash on the indicator light indicates a compass fault, and the compass needs to be checked and calibrated. </s>"
+    },
+    {
+        "question": "<s>[INST] What does a blue single flash on the indicator light signify? [/INST] A blue single flash on the indicator light signifies that there is no GPS signal or the drone is not unlocked, and the GPS signals need to be checked in an open environment without interference. </s>"
+    },
+    {
+        "question": "<s>[INST] What does a blue steady light on the indicator light mean? [/INST] A blue steady light on the indicator light means that there is no GPS signal, but the drone is unlocked, and the GPS module and its connection need to be checked. </s>"
+    },
+    {
+        "question": "<s>[INST] What does a green single flash on the indicator light indicate? [/INST] A green single flash on the indicator light indicates that the GPS signal is available, but the drone is not unlocked, and a stable GPS signal needs to be ensured before unlocking the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be checked when the indicator light shows a red, blue, and green alternating flash? [/INST] When the indicator light shows a red, blue, and green alternating flash, the device calibration or testing is required, and motor and ESC tests need to be conducted. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the LED light on the flight controller in relation to battery voltage? [/INST] The LED light on the flight controller is used to indicate the battery voltage level, flashing yellow to warn of low voltage and the need to replace the battery to prevent power failure during flight. </s>"
+    },
+    {
+        "question": "<s>[INST] What does a steady green light on the Spider-I UAV indicate? [/INST] A steady green light on the Spider-I UAV indicates that the drone is functioning normally and has a stable GPS signal. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of ensuring a stable GPS signal in the Spider-I UAV? [/INST] Ensuring a stable GPS signal in the Spider-I UAV is crucial for the drone to function normally and maintain its position and navigation. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Spider-I UAV achieve high precision GPS positioning? [/INST] The Spider-I UAV achieves high precision GPS positioning through a fast flashing green light, which indicates that the drone is using high precision GPS positioning for accurate navigation and operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the difference between a steady green light and a fast flashing green light on the Spider-I UAV? [/INST] A steady green light indicates normal operation, while a fast flashing green light indicates high precision GPS positioning, which is necessary for precision operation tasks. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of tasks require high precision GPS positioning on the Spider-I UAV? [/INST] Precision operation tasks, such as crop monitoring and mapping, require high precision GPS positioning to ensure accurate data collection and analysis. </s>"
+    },
+    {
+        "question": "<s>[INST] What does it mean when the Spider-I UAV is unlocked and has a GPS available signal? [/INST] When the Spider-I UAV is unlocked and has a GPS available signal, it means that the drone is ready to operate and has a stable GPS signal, which is necessary for navigation and positioning. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Spider-I UAV determine its GPS positioning accuracy? [/INST] The Spider-I UAV determines its GPS positioning accuracy through a combination of GPS signals and other sensors, which provide accurate location and navigation data. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the implications of a weak or unstable GPS signal on the Spider-I UAV's operation? [/INST] A weak or unstable GPS signal can significantly impact the Spider-I UAV's operation, leading to inaccurate navigation, reduced precision, and potentially dangerous situations. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the Spider-I UAV operate effectively without a stable GPS signal? [/INST] The Spider-I UAV cannot operate effectively without a stable GPS signal, as it relies on GPS for navigation, positioning, and control. </s>"
+    },
+    {
+        "question": "<s>[INST] What are some examples of precision operation tasks that the Spider-I UAV can perform with high precision GPS positioning? [/INST] Examples of precision operation tasks that the Spider-I UAV can perform with high precision GPS positioning include crop monitoring, soil analysis, and precision spraying, which require accurate navigation and positioning to ensure effective and efficient operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the potential risks associated with incorrect operation of the Spider-I UAV? [/INST] The potential risks associated with incorrect operation of the Spider-I UAV include property damage, minor injury, significant incidents, serious injury, and property damage. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the importance of reading the entire user manual before operating the product? [/INST] Reading the entire user manual is crucial to understand the product's features and ensure safe operation, as incorrect operation can cause serious harm to oneself or others, as well as damage to the product and property loss. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the specifications of the Remote Control product model H12? [/INST] The specifications of the Remote Control product model H12 include 12 channels, a working voltage of 4.2V, RF power of 20DB@CE / 23DB@FCC, and a frequency band of 2.400-2.483GHz. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the working voltage of the Remote Control? [/INST] The working voltage of the Remote Control is 4.2V. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the frequency band of the Remote Control? [/INST] The frequency band of the Remote Control is 2.400-2.483GHz. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of frequency hopping does the Remote Control use? [/INST] The Remote Control uses New FHSS (Frequency Hopping Spread Spectrum) frequency hopping. </s>"
+    },
+    {
+        "question": "<s>[INST] How can the Remote Control be upgraded? [/INST] The Remote Control can be upgraded through APP online upgrade. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the weight of the Remote Control? [/INST] The weight of the Remote Control is 530g. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the dimensions of the Remote Control? [/INST] The dimensions of the Remote Control are 190*152*94 mm. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the capacity of the battery used in the Remote Control? [/INST] The capacity of the battery used in the Remote Control is 10000mA/H. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the estimated battery life of the Spider-I UAV? [/INST] The estimated battery life of the Spider-I UAV is between 6-20 hours. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of charging interface does the Spider-I UAV use? [/INST] The Spider-I UAV uses a TYPE-C charging interface. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the various applications that the Spider-I UAV can be used for? [/INST] The Spider-I UAV can be used for various applications such as helicopter, fixed-wing, multirotor, car, and boat. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the product model of the receiver specifications? [/INST] The product model of the receiver specifications is R12. </s>"
+    },
+    {
+        "question": "<s>[INST] How many channels does the receiver have? [/INST] The receiver has 12 channels. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the working voltage range of the receiver? [/INST] The working voltage range of the receiver is between 4.5-5.5V. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the working current of the receiver at 5V? [/INST] The working current of the receiver at 5V is 140MA. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the dimensions of the receiver? [/INST] The dimensions of the receiver are 51*41*13 mm. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the weight of the receiver? [/INST] The weight of the receiver is 14g. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the structure of the remote control? [/INST] The structure of the remote control is not explicitly stated, but it is mentioned in the context. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary function of the 2.4G 3dB Antenna in the Spider-I UAV system? [/INST] The primary function of the 2.4G 3dB Antenna is to transmit and receive radio signals between the remote controller and the drone, enabling communication and control. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the 5.5-inch screen contribute to the overall operation of the agricultural drone? [/INST] The 5.5-inch screen contributes to the operation of the agricultural drone by displaying telemetry data, live video feed, or settings menus, providing the user with essential information and control options. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Three-Position Switch E in the drone's remote controller? [/INST] The Three-Position Switch E is used for changing flight modes, allowing the user to adjust the drone's behavior and operation according to specific needs or conditions. </s>"
+    },
+    {
+        "question": "<s>[INST] In what ways can the Three-Position Switch F be utilized during drone operation? [/INST] The Three-Position Switch F can be utilized for adjusting the water pump's opening degree or flow rate, giving the user control over the drone's interaction with its environment. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the primary functions controlled by the Joysticks X1, Y1? [/INST] The Joysticks X1, Y1 are used to control the drone's forward, backward, left turn, and right turn movements, providing the user with basic directional control. </s>"
+    },
+    {
+        "question": "<s>[INST] How do the Joysticks X2, Y2 differ in their control functions compared to Joysticks X1, Y1? [/INST] The Joysticks X2, Y2 differ from Joysticks X1, Y1 in that they control the drone's ascent, descent, and potentially other functions, offering more nuanced control over the drone's movement and altitude. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of data or feed can be displayed on the 5.5-inch screen of the remote controller? [/INST] The 5.5-inch screen can display telemetry data, such as the drone's speed, altitude, and direction, as well as a live video feed from the drone's camera, or settings menus for adjusting the drone's configuration. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the Three-Position Switch E be used for adjusting the water pump's opening degree or flow rate? [/INST] No, the Three-Position Switch E is not used for adjusting the water pump's opening degree or flow rate, as this function is typically associated with the Three-Position Switch F. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the antenna facilitate communication between the remote controller and the drone? [/INST] The antenna facilitates communication between the remote controller and the drone by transmitting and receiving radio signals, allowing the user to control the drone and receive feedback on its status and operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the benefits of having multiple joysticks for controlling different aspects of the drone's flight? [/INST] The benefits of having multiple joysticks include more precise control over the drone's movement and altitude, as well as the ability to adjust different aspects of the drone's flight independently, making operation more intuitive and effective. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary function of Button A on the Spider-I UAV remote controller? [/INST] Button A on the Spider-I UAV remote controller is used to initiate the Return to Home function, which allows the drone to automatically navigate back to its starting point. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Power Switch on the remote controller contribute to the overall operation of the drone? [/INST] The Power Switch on the remote controller is essential for turning the device on or off, thereby controlling the drone's operation and conserving battery life when not in use. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the SIM Card Slot in the Spider-I UAV system? [/INST] The SIM Card Slot enables cellular connectivity, allowing for data transmission and remote communication, which is crucial for real-time monitoring and control of the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] How does Dial G contribute to the adjustment of settings on the drone or camera? [/INST] Dial G is a wheel that can be rotated to adjust various settings, such as the camera angle or gimbal tilt, providing flexibility and precision in capturing footage or images. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of Button B in the context of AB point mode? [/INST] Button B is used for marking points in AB point mode, which is a feature that allows users to define specific locations or waypoints for the drone to follow or reference. </s>"
+    },
+    {
+        "question": "<s>[INST] Can you describe the function of the MIC Port on the remote controller? [/INST] The MIC Port on the remote controller provides a connection point for a microphone, which can be used for voice commands, communication, or other audio-related functions. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Speaker on the Spider-I UAV remote controller? [/INST] The Speaker on the Spider-I UAV remote controller is used to emit audio signals, alerts, or voice feedback, enhancing the user experience and providing important notifications or instructions. </s>"
+    },
+    {
+        "question": "<s>[INST] How does Button D, the Engineering mode switch, facilitate the testing or configuration of the drone's settings? [/INST] Button D, or the Engineering mode switch, enables a special mode that allows developers or technicians to test or configure the drone's settings, which is essential for troubleshooting, maintenance, or customization. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the significance of the Charging Port in maintaining the remote controller's functionality? [/INST] The Charging Port is significant for maintaining the remote controller's functionality, as it provides the input port for recharging the controller's battery, ensuring continuous operation and minimizing downtime. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary use of the PPM Output, or external headphone jack, on the Spider-I UAV remote controller? [/INST] The PPM Output, or external headphone jack, on the Spider-I UAV remote controller allows users to connect external audio devices, such as headphones, to receive audio feedback, voice commands, or other important audio signals. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the RED LED in the Spider-I UAV receiver? [/INST] The RED LED in the Spider-I UAV receiver indicates the status of the system, providing visual feedback to the user. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of antenna is used in the Spider-I UAV system? [/INST] The 2.4 ANT antenna is used in the Spider-I UAV system to establish communication between the receiver and the transmitter. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the MODE button in the receiver? [/INST] The MODE button in the receiver is used to switch between different modes of operation, such as changing the flight mode or adjusting settings. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the camera interface connect to the receiver? [/INST] The camera interface connects to the receiver through a dedicated port, allowing for the transmission of video and image data. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the USB Upgrade Interface in the Spider-I UAV system? [/INST] The USB Upgrade Interface in the Spider-I UAV system is used to update the firmware and software of the receiver, ensuring that the system remains up-to-date and functional. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the Data Transmission Interface in the receiver? [/INST] The Data Transmission Interface in the receiver is responsible for transmitting data between the receiver and other components of the Spider-I UAV system, such as the transmitter and the ground control station. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of signal is transmitted through the SBUS interface? [/INST] The SBUS interface transmits a serial signal that carries control data from the receiver to the flight controller, allowing for precise control of the UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] How many ground wires are present in the receiver? [/INST] There are multiple ground wires present in the receiver, which are used to provide a common ground reference for the various components and interfaces. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the GN LED in the receiver? [/INST] The GN LED in the receiver provides a visual indication of the system's status, with the green light typically indicating normal operation or a specific mode of operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the 5V pin in the USB Upgrade Interface? [/INST] The 5V pin in the USB Upgrade Interface provides power to the receiver during the firmware update process, ensuring that the system remains operational and can communicate with the update software. </s>"
+    },
+    {
+        "question": "<s>[INST] What does the green steady light on the Spider-I UAV indicate? [/INST] The green steady light on the Spider-I UAV indicates that communication is normal. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the operating temperature range for the Spider-I UAV? [/INST] The operating temperature range for the Spider-I UAV is -10\u00b0C to +55\u00b0C. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if the ground unit starts smoking or leaking during charging? [/INST] If the ground unit starts smoking or leaking during charging, it should be sent to the company for repair and charging should not be continued. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of battery does the H12 ground unit have? [/INST] The H12 ground unit has a built-in integrated rechargeable lithium battery. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the relative humidity limit for using the Spider-I UAV? [/INST] The relative humidity limit for using the Spider-I UAV is not to exceed 85%. </s>"
+    },
+    {
+        "question": "<s>[INST] What does the red fast flash indicator light mean? [/INST] The red fast flash indicator light means that the self-check has failed, and the user should retry or return the unit to the factory. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the Spider-I UAV be used in areas with explosive hazards? [/INST] No, the Spider-I UAV should not be used in areas with explosive hazards. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the facilities required at the site of use? [/INST] The facilities required at the site of use are to protect against rain, snow, wind, sand, and ash. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be avoided when charging the ground unit? [/INST] When charging the ground unit, it should be avoided in areas where infants can reach to avoid the danger of electric shock, and environments exceeding 60\u00b0C should also be avoided. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the compatible power adapter for charging the H12 ground unit? [/INST] The H12 ground unit is compatible with a standard 5V power adapter, such as those used for smartphones, cameras, and other digital products. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the key safety considerations for beginners operating the Spider-I UAV agricultural drone? [/INST] The key safety considerations for beginners operating the Spider-I UAV agricultural drone include not flying when tired, drunk, or in poor physical condition, and avoiding adverse weather conditions such as rain or strong wind. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the recommended weather conditions for flying the Spider-I UAV? [/INST] The recommended weather conditions for flying the Spider-I UAV are clear skies with no strong winds or rain, to ensure safe and stable operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What types of locations should be avoided when flying the Spider-I UAV? [/INST] Locations that should be avoided when flying the Spider-I UAV include high-voltage lines, communication base stations, crowded places, airports, and other explicitly prohibited areas. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the importance of performing equipment checks before flying the Spider-I UAV? [/INST] Performing equipment checks before flying the Spider-I UAV is crucial to ensure that the transmission system and aircraft are functioning normally, which helps prevent accidents and damage. </s>"
+    },
+    {
+        "question": "<s>[INST] How should the battery of the Spider-I UAV be charged? [/INST] The battery of the Spider-I UAV should be charged using a professional charger with a guarantee to prevent damage to the battery or the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended procedure for updating the firmware of the Spider-I UAV? [/INST] The recommended procedure for updating the firmware of the Spider-I UAV is to ensure that the firmware is updated to the latest version before the first-time use, to ensure optimal performance and safety. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the steps to change the language settings on the Spider-I UAV? [/INST] To change the language settings on the Spider-I UAV, users should go to Settings > System > Language & Input Method and select their preferred language. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the guidelines for positioning the antenna of the Spider-I UAV for optimal performance? [/INST] The antenna of the Spider-I UAV should be positioned as recommended for optimal performance before use, to ensure stable and clear transmission. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the precautions to take when handling the antenna of the Spider-I UAV? [/INST] When handling the antenna of the Spider-I UAV, users should avoid excessive force that could cause damage, as the antenna is a fragile component. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the requirements for the remote controller's battery before using the Spider-I UAV? [/INST] The remote controller's battery should be fully charged before using the Spider-I UAV, to ensure uninterrupted operation and control. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Bluetooth Activation Prompt in the Spider-I UAV User Manual? [/INST] The Bluetooth Activation Prompt in the Spider-I UAV User Manual indicates when Bluetooth is enabled, allowing users to establish connections with other devices. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Wireless Signal Strength indicator function in the agricultural drone system? [/INST] The Wireless Signal Strength indicator in the agricultural drone system displays the strength of the wireless signal, helping users assess the quality of their connection. </s>"
+    },
+    {
+        "question": "<s>[INST] What information does the SIM Card Prompt provide to the user? [/INST] The SIM Card Prompt shows the status of the SIM card, with the image indicating whether a SIM card is inserted or not, which is crucial for cellular connectivity. </s>"
+    },
+    {
+        "question": "<s>[INST] Can you describe the significance of the Battery Level Display in the UAV interface? [/INST] The Battery Level Display in the UAV interface shows the battery level and charging status, enabling users to monitor the power levels of their device. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the Time Display feature in the Spider-I UAV system? [/INST] The Time Display feature in the Spider-I UAV system displays the current time, which is essential for scheduling and coordinating drone operations. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Background Process Viewer contribute to the overall functionality of the drone? [/INST] The Background Process Viewer allows users to view processes running in the background, providing insight into the system's activities and helping with troubleshooting. </s>"
+    },
+    {
+        "question": "<s>[INST] What action is performed when the Return to Main Page button is clicked? [/INST] When the Return to Main Page button is clicked, it takes the user back to the main screen of the interface, providing easy navigation and access to primary functions. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary function of the Return to Previous Action button in the UAV interface? [/INST] The Return to Previous Action button in the UAV interface enables users to go back to the previous step or action, facilitating a more intuitive and user-friendly experience. </s>"
+    },
+    {
+        "question": "<s>[INST] In what context is the H12 Assistant Introduction relevant to the Spider-I UAV User Manual? [/INST] The H12 Assistant Introduction is relevant to the Spider-I UAV User Manual as it likely provides an overview or guide to using the H12 Assistant in conjunction with the UAV system. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the relationship between the annotations of the Status Bar and the overall operation of the agricultural drone? [/INST] The annotations of the Status Bar are essential to the overall operation of the agricultural drone, as they provide critical information about the system's status, connectivity, and performance. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the STICK MODE in the Spider-I UAV User Manual? [/INST] The STICK MODE is used for changing the mode of controlling the flight in the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the CHANNEL MONITORING feature work in the Spider-I UAV? [/INST] The CHANNEL MONITORING feature allows viewing the values of the controller's sticks or joysticks in the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of FREQUENCY MATCHING in the Spider-I UAV User Manual? [/INST] The FREQUENCY MATCHING feature is used for pairing the Remote Controller with other receivers in the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] What can be viewed using the VIDEO VIEWING feature in the Spider-I UAV? [/INST] The VIDEO VIEWING feature is used to view the images transmitted back from the camera in the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] What options are available in the ADVANCED OPTIONS section of the Spider-I UAV User Manual? [/INST] The ADVANCED OPTIONS section allows adjusting channel settings, updating joystick firmware, viewing signal strength, and modifying the baud rate of the receiver's serial port in the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the first step to initiate pairing mode on the receiver in the Spider-I UAV? [/INST] The first step to initiate pairing mode on the receiver is to short-circuit the GND and MODE KEY to make the green light flash rapidly. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you know if the pairing process is successful in the Spider-I UAV? [/INST] The pairing process is successful when the receiver's green light remains steady in the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the alternative method to initiate pairing mode on the receiver in the Spider-I UAV? [/INST] The alternative method to initiate pairing mode on the receiver is to rapidly power it on five times, and on the sixth time, it will enter pairing mode with the green light flashing. </s>"
+    },
+    {
+        "question": "<s>[INST] What is required to modify the baud rate of the receiver's serial port in the Spider-I UAV? [/INST] A password from the technical staff is required to modify the baud rate of the receiver's serial port in the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the H12 Assistant in the pairing process of the Spider-I UAV? [/INST] The H12 Assistant is used to start the pairing process and facilitate the pairing of the Remote Controller with the receiver in the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the first step in preparing the remote controller for joystick calibration? [/INST] To prepare the remote controller for joystick calibration, you need to set dials G and H to the middle position and then turn off the remote controller. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you enter calibration mode on the remote controller? [/INST] To enter calibration mode on the remote controller, you need to long-press the D button. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the 'Stick Value View' in the H12 Assistant? [/INST] The 'Stick Value View' in the H12 Assistant is used to assist with the calibration of the joystick. </s>"
+    },
+    {
+        "question": "<s>[INST] Can you install other apps on the remote controller? [/INST] Yes, the remote controller is fully open in terms of permissions, with no restrictions on installing or uninstalling any specific or third-party software. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the default listening port for connecting to the remote controller? [/INST] The default listening port for connecting to the remote controller is 14551. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is the remote controller constantly beeping? [/INST] The remote controller constantly beeps when it fails to connect successfully with the receiver. </s>"
+    },
+    {
+        "question": "<s>[INST] What should you do if the data transmission is not connecting? [/INST] If the data transmission is not connecting, you should check if the ground station is using the UDP type to connect to the remote controller, and ensure the listening port is 14551, and verify if the baud rate is normal. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you confirm the calibration of the joystick after moving it to its maximum and minimum values? [/INST] To confirm the calibration of the joystick after moving it to its maximum and minimum values, you need to long-press the D button. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the correct connection for RX and TX? [/INST] The correct connection for RX and TX is RX to TX, and TX to RX. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it necessary to restart the remote controller after calibrating the joystick? [/INST] It is necessary to restart the remote controller after calibrating the joystick to ensure that the changes take effect. </s>"
+    },
+    {
+        "question": "<s>[INST] What should I do if the Ground Station's sound is too low to hear clearly? [/INST] You can adjust the volume in the sound settings found in the system settings to hear the Ground Station's sound more clearly. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the alternative uses of the TYPE-C port on the Spider-I UAV? [/INST] Besides charging, the TYPE-C port can be used to connect to a computer for file management, allowing for easy data transfer and management. </s>"
+    },
+    {
+        "question": "<s>[INST] How can the remote controller connect to a network? [/INST] The remote controller can connect to a network via a SIM card or by connecting to WiFi, providing flexible connectivity options. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the recommended storage conditions for the remote controller? [/INST] The remote controller should be stored in a dry, ventilated area, away from direct sunlight, to prevent damage and ensure longevity. </s>"
+    },
+    {
+        "question": "<s>[INST] What should I do if the remote controller gets wet? [/INST] If the remote controller gets wet, you should wipe it promptly with a soft, dry cloth and turn off the power immediately to prevent further damage. </s>"
+    },
+    {
+        "question": "<s>[INST] How can I prevent battery overheating during long-term storage? [/INST] To prevent battery overheating during long-term storage, you should store the remote controller in a dry, ventilated area, away from direct sunlight. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the potential dangers of the remote controller's small parts? [/INST] The remote controller's small parts, such as wires, may pose a danger to children, so it is essential to keep them out of children's reach to avoid potential injury. </s>"
+    },
+    {
+        "question": "<s>[INST] What should I avoid doing to the battery to prevent damage? [/INST] To prevent damage, you should avoid mechanical impact, crushing, piercing the battery, and dropping the battery, as these actions can cause irreparable harm. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended temperature range for storing the remote controller for more than three months? [/INST] The recommended temperature range for storing the remote controller for more than three months is 22 to 28 degrees Celsius, and you should avoid storing it below -20 degrees Celsius or above 45 degrees Celsius. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important to keep the remote controller parts out of children's reach? [/INST] It is crucial to keep the remote controller parts out of children's reach to avoid potential injury and damage, as the small parts can pose a choking hazard or cause other harm if mishandled. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary purpose of the Spider-I UAV User Manual for Agricultural Drones? [/INST] The primary purpose of the Spider-I UAV User Manual for Agricultural Drones is to provide users with a comprehensive guide on the safe and effective operation of the drone for various agricultural applications. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Correct V.S. Incorrect Operation Comparison section contribute to the overall understanding of the drone's operation? [/INST] The Correct V.S. Incorrect Operation Comparison section contributes to the overall understanding of the drone's operation by highlighting the differences between proper and improper use, allowing users to identify and avoid potential mistakes. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the key differences between correct and incorrect operation of the Spider-I UAV? [/INST] The key differences between correct and incorrect operation of the Spider-I UAV include factors such as proper calibration, accurate flight planning, and adherence to safety protocols, which can significantly impact the drone's performance and efficiency. </s>"
+    },
+    {
+        "question": "<s>[INST] In what ways can incorrect operation of the agricultural drone lead to reduced efficiency? [/INST] Incorrect operation of the agricultural drone can lead to reduced efficiency by resulting in inaccurate data collection, decreased crop yields, and increased risk of accidents or damage to the drone or surrounding environment. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the user manual address the importance of proper drone maintenance? [/INST] The user manual addresses the importance of proper drone maintenance by providing detailed instructions on routine checks, software updates, and repair procedures to ensure the drone remains in good working condition. </s>"
+    },
+    {
+        "question": "<s>[INST] What are some common mistakes to avoid when operating the Spider-I UAV for agricultural purposes? [/INST] Some common mistakes to avoid when operating the Spider-I UAV include failing to calibrate the drone properly, not monitoring weather conditions, and ignoring safety guidelines, which can lead to suboptimal performance or even accidents. </s>"
+    },
+    {
+        "question": "<s>[INST] How can farmers benefit from using the Spider-I UAV in their agricultural practices? [/INST] Farmers can benefit from using the Spider-I UAV in their agricultural practices by leveraging its capabilities for crop monitoring, soil analysis, and precision farming, which can lead to increased crop yields, reduced waste, and improved resource allocation. </s>"
+    },
+    {
+        "question": "<s>[INST] What role does the Correct V.S. Incorrect Operation Comparison section play in ensuring safe drone operation? [/INST] The Correct V.S. Incorrect Operation Comparison section plays a crucial role in ensuring safe drone operation by providing users with a clear understanding of the potential risks and consequences of incorrect operation, allowing them to take necessary precautions and follow best practices. </s>"
+    },
+    {
+        "question": "<s>[INST] In what ways can the Spider-I UAV be used to improve crop yields and reduce waste? [/INST] The Spider-I UAV can be used to improve crop yields and reduce waste by enabling farmers to collect detailed data on crop health, growth patterns, and soil conditions, which can inform data-driven decisions on irrigation, fertilization, and pest control. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the user manual provide guidance on troubleshooting common issues with the Spider-I UAV? [/INST] The user manual provides guidance on troubleshooting common issues with the Spider-I UAV by offering step-by-step instructions, diagnostic tools, and repair procedures, allowing users to quickly identify and resolve problems, minimizing downtime and optimizing drone performance. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary function of the Smart Ground Station APP in the context of the Spider-I UAV? [/INST] The Smart Ground Station APP integrates various functions such as flight debugging, calibration, parameter adjustment, route planning, and status monitoring to support the operation of the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the minimum Android version requirements for installing and running the Smart Ground Station APP? [/INST] The Smart Ground Station APP is compatible with mobile phones or remote controllers running Android 7.0 or higher versions. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users pair their devices with the flight controller using the Smart Ground Station APP? [/INST] To pair devices, users need to activate the Bluetooth function, turn on the Bluetooth connection switch on the flight controller, and then search for and pair with the corresponding device name on their phone or remote controller. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the default pairing password for connecting devices via Bluetooth? [/INST] The default pairing password for connecting devices via Bluetooth is 1234. </s>"
+    },
+    {
+        "question": "<s>[INST] What types of users can register and use the Smart Ground Station APP? [/INST] The Smart Ground Station APP provides registration functions for both plant protection teams and pilots, allowing these users to register and log in to use the APP. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the process for registering a new account on the Smart Ground Station APP? [/INST] The registration process involves clicking on the register button, filling in the necessary information, and completing the registration to log in and use the APP. </s>"
+    },
+    {
+        "question": "<s>[INST] How can users recover their password if they forget it on the Smart Ground Station APP? [/INST] If a user forgets their password, they can recover it by clicking on 'Forget Password' and entering their registered phone number or email. </s>"
+    },
+    {
+        "question": "<s>[INST] What information do users need to provide during the registration process on the Smart Ground Station APP? [/INST] During registration, users are required to fill in the necessary information, which is not specified but is presumably related to their identity and role as either a plant protection team member or a pilot. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the Smart Ground Station APP be used on devices other than mobile phones or remote controllers? [/INST] The Smart Ground Station APP is specifically designed to be used on mobile phones or remote controllers, and there is no indication that it can be used on other types of devices. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the calibration function within the Smart Ground Station APP? [/INST] The calibration function within the Smart Ground Station APP is used to adjust and fine-tune the settings of the Spider-I UAV to ensure optimal performance and accuracy during its operations. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the mode selection page in the Spider-I UAV APP? [/INST] The mode selection page in the Spider-I UAV APP allows users to choose between spraying mode and spreading mode, which are the two main operating modes for the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users connect to devices in the Spider-I UAV system? [/INST] Users connect to devices in the Spider-I UAV system by clicking on the 'Not Connected' section on the main interface and selecting the device type or connection method as needed. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the two main operating modes available in the Spider-I UAV APP? [/INST] The two main operating modes available in the Spider-I UAV APP are spraying mode and spreading mode, which are used for different agricultural applications. </s>"
+    },
+    {
+        "question": "<s>[INST] What types of devices can be connected to the Spider-I UAV system? [/INST] The Spider-I UAV system can connect to four main types of devices: drones, RTK surveying devices, single-point surveying devices, and RTK devices. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users select the connection method for a drone in the Spider-I UAV APP? [/INST] Users select the connection method for a drone in the Spider-I UAV APP by clicking on the 'Not Connected' section and choosing the desired connection method from the available options. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the 'Not Connected' section on the main interface of the Spider-I UAV APP? [/INST] The 'Not Connected' section on the main interface of the Spider-I UAV APP is used to connect to devices, and it brings up the connection page when clicked. </s>"
+    },
+    {
+        "question": "<s>[INST] Can users connect to multiple devices simultaneously in the Spider-I UAV system? [/INST] The Spider-I UAV system allows users to connect to multiple devices, but the specific connection process and limitations depend on the device type and the APP's capabilities. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the difference between RTK surveying and single-point surveying in the Spider-I UAV system? [/INST] RTK surveying and single-point surveying are two different methods used in the Spider-I UAV system, with RTK surveying providing more precise positioning and single-point surveying being used for specific points of interest. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users reset their password in the Spider-I UAV APP? [/INST] Users can reset their password in the Spider-I UAV APP by following the password reset procedure, which is illustrated in Figure 2 of the user manual. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the APP in the overall operation of the Spider-I UAV system? [/INST] The APP plays a central role in the operation of the Spider-I UAV system, as it allows users to select the operating mode, connect to devices, and control the drone's functions. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the interface for connecting to a drone in the Spider-I UAV User Manual? [/INST] The interface for connecting to a drone in the Spider-I UAV User Manual is used to establish a connection between the drone and the control device, allowing users to access various features and settings. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users access the custom data display settings page in the main interface? [/INST] Users can access the custom data display settings page by swiping up or clicking on the auxiliary data display area in the main interface. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the maximum number of data items that can be displayed on the custom data display settings page? [/INST] The maximum number of data items that can be displayed on the custom data display settings page is 6. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when the user clicks on the upper left corner of the flight mode area? [/INST] When the user clicks on the upper left corner of the flight mode area, a disconnection prompt pops up, allowing the user to disconnect from the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users enable the types of data they wish to display on the custom data display settings page? [/INST] Users can enable the types of data they wish to display on the custom data display settings page by clicking on the desired data items and selecting them. </s>"
+    },
+    {
+        "question": "<s>[INST] What parameters can be set by clicking on the speed, radar altitude, and operation data area? [/INST] By clicking on the speed, radar altitude, and operation data area, users can set parameters such as AB point speed, application rate, and centrifugal settings. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the auxiliary data display area in the main interface? [/INST] The auxiliary data display area in the main interface allows users to access additional data and settings, such as the custom data display settings page. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users disconnect from the drone in the main interface? [/INST] Users can disconnect from the drone in the main interface by clicking on the upper left corner of the flight mode area and confirming the disconnection prompt. </s>"
+    },
+    {
+        "question": "<s>[INST] What mode is the flight controller connected in, as shown in Figure 5? [/INST] The flight controller is connected in spraying mode, as shown in Figure 5, which is a specific mode for agricultural drones. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the AB point speed parameter in the speed, radar altitude, and operation data area? [/INST] The AB point speed parameter in the speed, radar altitude, and operation data area is used to set the speed at which the drone travels between two points, A and B, during a spraying operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the smart battery information display box in the Spider-I UAV User Manual? [/INST] The smart battery information display box in the Spider-I UAV User Manual provides users with detailed information about the battery level and other relevant parameters. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you enable flow speed control or flow rate control in the settings page? [/INST] To enable flow speed control or flow rate control, users need to access the settings page and adjust the operation parameter settings accordingly. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the obstacle avoidance radar function button? [/INST] The obstacle avoidance radar function button allows users to make real-time adjustments to the obstacle avoidance settings, including the emergency stop distance. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the emergency stop distance and how is it set? [/INST] The emergency stop distance is a critical parameter that determines the stopping distance from obstacles after braking, and it can be set based on the different weights and axle distances of the plane. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you switch between the map and the video window? [/INST] Users can switch between the map and the video window by clicking on the video window area or using the video window switch button on the main page. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when sensors and peripherals malfunction? [/INST] When sensors and peripherals malfunction, a corresponding fault icon will appear in the upper left corner of the interface, indicating the specific issue. </s>"
+    },
+    {
+        "question": "<s>[INST] What does the red icon for the contactor indicate? [/INST] The red icon for the contactor indicates disconnection, while the green icon indicates engagement, providing users with a clear visual indication of the contactor's status. </s>"
+    },
+    {
+        "question": "<s>[INST] What does the green icon for the contactor indicate? [/INST] The green icon for the contactor indicates engagement, which means that the contactor is actively connected and functioning properly. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the significance of 4G firmware versions 3803 and above? [/INST] 4G firmware versions 3803 and above have a specific indication status that applies to the ground station, which is an important consideration for users. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you display the contractor's status in the settings page? [/INST] To display the contractor's status, users need to enable the contractor in the settings page, which will provide them with real-time information about the contractor's status. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the point collection button on the main interface of the Spider-I UAV? [/INST] The point collection button on the main interface of the Spider-I UAV is used to select the desired survey point collection method and enter the plot naming interface. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users enter the plot naming interface for survey point collection? [/INST] Users can enter the plot naming interface by clicking the point collection button on the main interface and selecting the desired survey point collection method. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the different types of points that can be collected during the survey point collection process? [/INST] The different types of points that can be collected during the survey point collection process are area points, obstacle points, and waypoints. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the two types of obstacle areas that can be chosen by users? [/INST] The two types of obstacle areas that can be chosen by users are polygonal obstacle areas and circular obstacle areas. </s>"
+    },
+    {
+        "question": "<s>[INST] Is there a limit to the number of obstacle areas that can be supported? [/INST] There is no limit to the number of obstacle areas that can be supported. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the maximum number of area points that can be supported? [/INST] The maximum number of area points that can be supported is 128. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the maximum number of obstacle area points that can be supported? [/INST] The maximum number of obstacle area points that can be supported is 10. </s>"
+    },
+    {
+        "question": "<s>[INST] Under what conditions must aircraft point collection be done? [/INST] Aircraft point collection must be done under good GPS positioning conditions. </s>"
+    },
+    {
+        "question": "<s>[INST] Can users plan obstacle areas outside of the work area? [/INST] No, users cannot plan obstacle areas outside of the work area, as planning for obstacle area points and boundaries outside of the work area is not supported. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens if users skip entering a name and directly proceed to the survey point collection interface? [/INST] If users skip entering a name and directly proceed to the survey point collection interface, they can still complete the point collection and name the plot afterwards. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the maximum limit for area points in the Spider-I UAV system? [/INST] The maximum limit for area points in the Spider-I UAV system is 128. </s>"
+    },
+    {
+        "question": "<s>[INST] What firmware version is required to support more than 32 area points? [/INST] The firmware version required to support more than 32 area points is V3.5.1 or above. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you exchange obstacle points in polygonal obstacle areas? [/INST] To exchange obstacle points in polygonal obstacle areas, you need to select an obstacle area, click one of the obstacle points to be swapped, then select another point to swap with in the popup. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of setting a work area before surveying waypoints? [/INST] The work area must be set in advance to define the boundaries within which waypoints can be set. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it necessary to use RTK survey equipment in fruit tree mode? [/INST] RTK survey equipment is necessary in fruit tree mode to ensure accurate elevation measurements of waypoints. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the flight route be uploaded if the firmware version is below V3.5.1 and there are more than 32 area points? [/INST] No, the flight route cannot be uploaded if the firmware version is below V3.5.1 and there are more than 32 area points. </s>"
+    },
+    {
+        "question": "<s>[INST] How many area points are allowed if the firmware version is V3.5.1 or above? [/INST] If the firmware version is V3.5.1 or above, up to 128 area points are allowed. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when you add waypoints in the Spider-I UAV system? [/INST] When you add waypoints in the Spider-I UAV system, the actual elevation of each waypoint is also added. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of equipment is required to add waypoints in fruit tree mode? [/INST] In fruit tree mode, RTK survey equipment is required to add waypoints. </s>"
+    },
+    {
+        "question": "<s>[INST] Is the elevation of waypoints measured by the RTK equipment used in fruit tree mode? [/INST] Yes, the elevation of waypoints measured by the RTK equipment is used in fruit tree mode. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the elevation value in the Spider-I UAV User Manual for Agricultural Drones? [/INST] The elevation value in the Spider-I UAV User Manual for Agricultural Drones is used to determine the height at which the drone will fly over the fruit trees, allowing for more accurate data collection and spraying. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the waypoint elevation affect the flight route planning in fruit tree mode? [/INST] The waypoint elevation in fruit tree mode affects the flight route planning by determining the height at which the drone will fly over each waypoint, ensuring that the drone maintains a consistent and safe distance from the trees. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the difference in elevation data obtained from non-RTK devices compared to actual elevation? [/INST] The elevation data obtained from non-RTK devices can be significantly different from the actual elevation, which can lead to inaccurate data collection and potentially dangerous flight paths. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important for users to ensure the accuracy of waypoint elevation data in fruit tree mode? [/INST] Ensuring the accuracy of waypoint elevation data in fruit tree mode is crucial to avoid danger during operation, as inaccurate data can cause the drone to fly too low or too high, potentially damaging the drone or the trees. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the significance of using RTK survey equipment in fruit tree mode? [/INST] Using RTK survey equipment in fruit tree mode provides more accurate elevation data, which is essential for safe and effective operation of the agricultural drone. </s>"
+    },
+    {
+        "question": "<s>[INST] Can users operate the drone safely without focusing on waypoint elevation data in non-fruit tree mode? [/INST] Yes, users can operate the drone safely without focusing on waypoint elevation data in non-fruit tree mode, as the drone will not be flying at a fixed height above the trees. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the fruit tree mode affect the overall operation of the agricultural drone? [/INST] The fruit tree mode affects the overall operation of the agricultural drone by allowing it to fly at a consistent height above the trees, which is essential for accurate data collection and spraying. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the potential dangers of inaccurate waypoint elevation data in fruit tree mode? [/INST] Inaccurate waypoint elevation data in fruit tree mode can lead to the drone flying too low or too high, potentially damaging the drone or the trees, and causing accidents or injuries. </s>"
+    },
+    {
+        "question": "<s>[INST] How can users ensure the accuracy of elevation data when using non-RTK devices in fruit tree mode? [/INST] Users can ensure the accuracy of elevation data when using non-RTK devices in fruit tree mode by using alternative methods, such as ground control points or aerial triangulation, to validate the elevation data. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the key considerations for users when switching to fruit tree mode in the Spider-I UAV User Manual? [/INST] When switching to fruit tree mode, users should consider the accuracy of the waypoint elevation data, the type of survey equipment used, and the potential dangers of inaccurate data to ensure safe and effective operation of the agricultural drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the two types of directories available for plot management in the Spider-I UAV system? [/INST] The Spider-I UAV system offers both local and cloud directories for plot management, allowing users to store and manage plots in either location. </s>"
+    },
+    {
+        "question": "<s>[INST] How can users customize and upload plots to the cloud directory? [/INST] Users can customize and upload plots to the cloud directory by clicking the upload button, which enables sharing with all users within the same plant protection company. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when a user swipes left on a file in the local directory? [/INST] When a user swipes left on a file, they are presented with options to upload, edit, or delete the plot, providing a convenient way to manage plot files. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the plot sharing feature in the Spider-I UAV system? [/INST] The plot sharing feature enables the sharing of plots between different accounts, facilitating collaboration and coordination among users. </s>"
+    },
+    {
+        "question": "<s>[INST] How can users share a plot with other accounts? [/INST] To share a plot, users can switch to the cloud tab, click the share button, and enter the account name or phone number of the recipient, who can then view the shared plot under their cloud data. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the 'Nearby Plots' feature and where is it accessible? [/INST] The 'Nearby Plots' feature is accessible under the cloud directory and allows users to search for plots uploaded by any user or their specific plant protection company, depending on the plot sharing function button state. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the plot sharing function button within the cloud directory? [/INST] The plot sharing function button within the cloud directory indicates whether plot sharing is active or deactivated, with a blue button indicating an active state and a grey button indicating a deactivated state. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the difference between the blue and grey states of the plot sharing function button? [/INST] When the plot sharing function button is blue, the search range encompasses all plots uploaded to the cloud by any user, while a grey button limits the search range to plots uploaded by the user's specific plant protection company. </s>"
+    },
+    {
+        "question": "<s>[INST] Can users delete plot files directly from the local directory? [/INST] Yes, users have the option to directly delete plot files from the local directory, providing a convenient way to manage local plot files. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the plot sharing feature enable collaboration between different accounts? [/INST] The plot sharing feature enables collaboration between different accounts by allowing users to share plots and view shared plots under their cloud data, facilitating coordination and cooperation among users. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the defined search area for nearby plots in the Spider-I UAV system? [/INST] The search area for nearby plots is defined as a circular region with a radius of 5 kilometers centered around the current device's location. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users access the 'Nearby Plots' section in the cloud directory? [/INST] Users can access the 'Nearby Plots' section by switching to it when in the cloud directory, and the system will automatically search for and filter out plots that meet the criteria. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the maximum number of plots displayed on each page in the 'Nearby Plots' section? [/INST] Each page in the 'Nearby Plots' section displays up to 5 plots. </s>"
+    },
+    {
+        "question": "<s>[INST] Can users view multiple plots on the map simultaneously, and if so, how many? [/INST] Yes, users can view all 5 plots from the current page simultaneously on the map. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when a user clicks on a plot area displayed on the map? [/INST] When a user clicks on a plot area displayed on the map, the system will automatically switch to that particular plot for further action or analysis. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the three types of survey and mapping available in the Spider-I UAV system? [/INST] The three types of survey and mapping available are surveying points, using a drone for point collection, and designating points on a digital map. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users differentiate between plot types in the system? [/INST] Users can differentiate plot types through plot indicators. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the 'Plot Preview' feature in the Spider-I UAV system? [/INST] The 'Plot Preview' feature significantly aids users in locating plots by allowing them to search for and pinpoint plots that meet the search criteria, including image display. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users search for specific plots using keywords in the system? [/INST] Users can search for specific plots by entering keywords into the search box, and the system will display plots that meet the search criteria. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of search does the system support for precise location identification? [/INST] The system supports fuzzy search for precise location identification, allowing for more accurate and flexible searching. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the plot editing page in the Spider-I UAV User Manual? [/INST] The purpose of the plot editing page is to enable users to add, delete, or move points in the working area or any obstacle area. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users access the plot editing page? [/INST] Users access the plot editing page by clicking on the plot edit button after opening the plot list. </s>"
+    },
+    {
+        "question": "<s>[INST] What features are available on the left side of the plot editing page? [/INST] The left side of the plot editing page includes options for selecting obstacle areas, allowing users to edit specific areas as needed. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the 'Insert Area Point' feature in plot editing? [/INST] The 'Insert Area Point' feature allows users to add new points between two existing points in the plot editing process. </s>"
+    },
+    {
+        "question": "<s>[INST] Can users add new points between existing points in the plot editing process? [/INST] Yes, users can add new points between existing points in the plot editing process using the 'Insert Area Point' feature. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users select obstacle areas for editing in the plot editing page? [/INST] Users select obstacle areas for editing by using the options available on the left side of the plot editing page. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the main actions that can be performed on points in the working area or obstacle area? [/INST] The main actions that can be performed on points are adding, deleting, or moving them in the working area or obstacle area. </s>"
+    },
+    {
+        "question": "<s>[INST] Is the plot editing page similar to any other pages in the Spider-I UAV User Manual? [/INST] Yes, the plot editing page is similar to the survey and mapping page. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the benefit of being able to edit specific obstacle areas in the plot editing page? [/INST] The benefit of editing specific obstacle areas is that it allows users to customize and refine their plots according to their needs. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the 'Insert Area Point' feature facilitate the addition of new points in the plot editing process? [/INST] The 'Insert Area Point' feature facilitates the addition of new points by enabling users to insert them between existing points, making the plot editing process more efficient and precise. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the insert button in the Spider-I UAV User Manual for Agricultural Drones? [/INST] The insert button in the Spider-I UAV User Manual for Agricultural Drones is used to add a new area point before a selected point, allowing users to update their surveyed area points without altering the existing ones. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you add a new area point before a selected point in the Spider-I UAV system? [/INST] To add a new area point before a selected point in the Spider-I UAV system, you need to select the point where the new point is to be inserted, determine the insertion point's location, and then click the insert button. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens to the existing surveyed area points when a new point is inserted? [/INST] When a new point is inserted, the existing surveyed area points remain unchanged, and their numbering is automatically updated to reflect the new point. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the insertion of a new area point alter the numbering of previously surveyed points? [/INST] No, the insertion of a new area point does not alter the positions of previously surveyed points, but it does update their numbering. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you determine the location of the insertion point in the Spider-I UAV system? [/INST] The location of the insertion point in the Spider-I UAV system is determined by selecting the point where the new point is to be inserted and then clicking on the insert button. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the effect of clicking the insert button on the numbering of area points? [/INST] When the insert button is clicked, the numbering of area points is automatically updated to reflect the new point, ensuring that all points are correctly numbered. </s>"
+    },
+    {
+        "question": "<s>[INST] Is it possible to add a new area point without altering the existing surveyed area points? [/INST] Yes, it is possible to add a new area point without altering the existing surveyed area points, as the Spider-I UAV system updates the numbering of points synchronously. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the relationship between the selected point and the new point to be inserted in the Spider-I UAV system? [/INST] The selected point and the new point to be inserted are related in that the new point is added before the selected point, and the numbering of points is updated accordingly. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Spider-I UAV system update the numbering of area points when a new point is inserted? [/INST] The Spider-I UAV system updates the numbering of area points when a new point is inserted by automatically renumbering all points to reflect the new point, ensuring that all points are correctly numbered. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the significance of Figure 16 in the Spider-I UAV User Manual for Agricultural Drones? [/INST] Figure 16 in the Spider-I UAV User Manual for Agricultural Drones illustrates the process of selecting an insertion point and adding a new area point before a selected point, demonstrating how the system updates the numbering of points. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the 'Call Operation' button in the plot list? [/INST] The 'Call Operation' button is used to enter the flight route planning page, where users can plan and customize their drone's flight route. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you confirm the heading angle in the route planning page? [/INST] To confirm the heading angle, you can select a specific boundary, and the heading angle will automatically align with the selected boundary. </s>"
+    },
+    {
+        "question": "<s>[INST] What does the 'S' represent in the route planning page? [/INST] The 'S' represents the starting point of the route, which can be adjusted by clicking the reverse button at the top of the page. </s>"
+    },
+    {
+        "question": "<s>[INST] Can you change the starting point of a route, and if so, how? [/INST] Yes, you can change the starting point of a route by clicking the reverse button at the top of the page. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the maximum adjustment range for working area inward shrinkage or obstacle area outward expansion? [/INST] The maximum adjustment range for working area inward shrinkage or obstacle area outward expansion is 15 meters, and working area inward shrinkage can only be done on one side. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of route correction in the route planning process? [/INST] The purpose of route correction is to minimize location errors that occur during plot surveying, making it easier for users to operate the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you upload a planned route to the flight controller after completing route planning? [/INST] To upload a planned route to the flight controller, place the aircraft at a calibration point, click on route correction, and then click on 'Start Operation'. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens to the old plot plan when a new route is replanned and uploaded? [/INST] When a new route is replanned and uploaded, the old plot plan will be overwritten by the new plan. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the maximum distance for route correction, and why is it important? [/INST] The maximum distance for route correction should not exceed 10 meters, as this ensures accurate and efficient flight route planning. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the plot in the plot list change after uploading a planned route to the flight controller? [/INST] After uploading a planned route to the flight controller, the plot in the plot list will automatically change to the plot with the added route and will be uploaded to the cloud. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when you choose not to replan a route in the Spider-I UAV? [/INST] When you choose not to replan a route in the Spider-I UAV, changes to planning parameters other than flight speed will be ineffective once you enter the route planning page. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Edge Sweeping Mode in the Spider-I UAV? [/INST] The Edge Sweeping Mode in the Spider-I UAV allows users to set the number of circles for edge flight operations and adjust the entire edge flight path or just a single side as required. </s>"
+    },
+    {
+        "question": "<s>[INST] Can flight speed be adjusted when recalling a route without replanning? [/INST] No, flight speed is the only planning parameter that can be adjusted when recalling a route without replanning in the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] How can users adjust the edge flight path in Edge Sweeping Mode? [/INST] Users can adjust the entire edge flight path or just a single side in Edge Sweeping Mode, as required, by setting parameters such as flying speed and spray width. </s>"
+    },
+    {
+        "question": "<s>[INST] What parameters can be set when operating in Edge Sweeping Mode? [/INST] When operating in Edge Sweeping Mode, users can set parameters such as flying speed and spray width, which can be adjusted in the same manner as in regular flight path operations. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the default flight direction in Edge Sweeping Mode? [/INST] The default flight direction in Edge Sweeping Mode is set to point towards the next waypoint. </s>"
+    },
+    {
+        "question": "<s>[INST] Can changes to planning parameters other than flight speed be made when recalling a route? [/INST] No, changes to planning parameters other than flight speed will be ineffective when recalling a route without replanning in the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users set the number of circles for edge flight operations in Edge Sweeping Mode? [/INST] Users can set the number of circles for edge flight operations in Edge Sweeping Mode after selecting the Edge Sweeping Mode option. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the relationship between flight parameters in Edge Sweeping Mode and regular flight path operations? [/INST] The flight parameters in Edge Sweeping Mode are adjusted in the same manner as in regular flight path operations, allowing for consistent control and navigation. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users invoke the Edge Sweeping Mode operation in the Spider-I UAV? [/INST] Users can invoke the Edge Sweeping Mode operation in the Spider-I UAV by selecting the Edge Sweeping Mode option and adjusting the relevant parameters as needed. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the fruit tree mode in the Spider-I UAV User Manual for Agricultural Drones? [/INST] The fruit tree mode in the Spider-I UAV User Manual for Agricultural Drones is designed to provide users with a specialized set of features for surveying and operating on fruit trees, allowing for more efficient and effective data collection and spraying operations. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users select the fruit tree mode in the flight route planning page? [/INST] To select the fruit tree mode, users must first choose the surveyed fruit tree waypoints and the plot, then call for operation, cancel re-planning, and finally select the fruit tree mode in the flight route planning page. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the speed adjustment in fruit tree mode? [/INST] The speed adjustment in fruit tree mode allows users to adjust the speed of the flight route, enabling them to customize the operation to suit their specific needs and ensure a safe and efficient mission. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the height increment in fruit tree mode? [/INST] The height increment in fruit tree mode adjusts the distance from all fruit tree waypoints' altitude to the actual operation height, enabling users to adjust the safe height of the aircraft above the crops during actual operations and prevent accidents. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the available waypoint actions in fruit tree mode? [/INST] The available waypoint actions in fruit tree mode include hovering, spinning, and circling, which can be set as unified actions for all waypoints, and are used when the spraying method is set to waypoint mode. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the difference between waypoint mode and route mode in spraying methods? [/INST] The main difference between waypoint mode and route mode in spraying methods is that waypoint mode only sprays at designated waypoints, whereas route mode sprays throughout the entire route, allowing users to choose the most suitable method for their specific operation. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the height change method affect the aircraft's operation in fruit tree mode? [/INST] The height change method affects the aircraft's operation in fruit tree mode by determining how the height changes in relation to the position, with slope mode changing height synchronously with position and fixed point mode changing height and position asynchronously. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the two options for the height change method in fruit tree mode? [/INST] The two options for the height change method in fruit tree mode are slope mode and fixed point mode, which users can choose from depending on the terrain differences and the specific requirements of their operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the importance of choosing the correct height change method in fruit tree mode? [/INST] Choosing the correct height change method in fruit tree mode is crucial to prevent accidents and ensure a safe and successful operation, as it allows users to adapt to different terrain conditions and maintain a stable and controlled flight. </s>"
+    },
+    {
+        "question": "<s>[INST] What are some key parameter settings that users should consider when operating in fruit tree mode? [/INST] Some key parameter settings that users should consider when operating in fruit tree mode include speed, height increment, waypoint actions, spraying method, and height change method, all of which play a critical role in determining the success and safety of the operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Spider-I UAV User Manual for Agricultural Drones? [/INST] The Spider-I UAV User Manual for Agricultural Drones provides a comprehensive guide for operating and maintaining the Spider-I UAV system for agricultural applications. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you plan a flight route in the Spider-I UAV system? [/INST] To plan a flight route in the Spider-I UAV system, users can utilize the mission planning software to define waypoints, set altitudes, and configure other parameters. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the different operation modes available in the Spider-I UAV system? [/INST] The Spider-I UAV system offers various operation modes, including manual, semi-autonomous, and fully autonomous modes, to cater to different user needs and preferences. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the Waypoint Actions feature in the Spider-I UAV system? [/INST] The Waypoint Actions feature in the Spider-I UAV system allows users to define specific actions, such as hovering or landing, at designated waypoints during a mission. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you change the altitude of the Spider-I UAV during a mission? [/INST] The altitude of the Spider-I UAV can be changed during a mission using the Altitude Change Method, which enables users to adjust the drone's height above ground level. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the Spraying Method used for in the Spider-I UAV system? [/INST] The Spraying Method in the Spider-I UAV system is used for precision crop spraying, allowing users to configure the spray nozzle, flow rate, and other parameters for optimal crop treatment. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the Spider-I UAV be used for crop monitoring and surveying? [/INST] Yes, the Spider-I UAV can be used for crop monitoring and surveying, providing users with valuable insights into crop health, growth, and development. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Spider-I UAV system ensure accurate and efficient spraying of crops? [/INST] The Spider-I UAV system ensures accurate and efficient spraying of crops through its advanced navigation system, precision spray nozzles, and real-time monitoring capabilities. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the benefits of using the Spider-I UAV for agricultural purposes? [/INST] The benefits of using the Spider-I UAV for agricultural purposes include increased crop yields, reduced chemical usage, and improved farm management efficiency. </s>"
+    },
+    {
+        "question": "<s>[INST] What kind of training or support is available for users of the Spider-I UAV system? [/INST] The manufacturer of the Spider-I UAV system provides comprehensive training and support for users, including online tutorials, user manuals, and dedicated customer support teams. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the first step to begin operating the Spider-I UAV for agricultural purposes? [/INST] To begin operating the Spider-I UAV for agricultural purposes, it is necessary to click the 'Start Operation' button. </s>"
+    },
+    {
+        "question": "<s>[INST] What is required to use the fruit tree mode on the Spider-I UAV? [/INST] The fruit tree mode on the Spider-I UAV requires specialized firmware support. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you upload the flight route to the flight controller? [/INST] The flight route is uploaded to the flight controller after clicking the 'Start Operation' button and confirming the start and end points of the work area. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of equipment may be necessary for fruit tree waypoint collection and operation? [/INST] RTK survey equipment may be necessary for fruit tree waypoint collection and operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What should you do if you need specialized firmware support for the fruit tree mode? [/INST] If you need specialized firmware support for the fruit tree mode, you should contact technical support to obtain the necessary firmware. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of clicking the 'Start Operation' button? [/INST] The purpose of clicking the 'Start Operation' button is to initiate the operation of the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the Spider-I UAV be used for fruit tree mapping without specialized firmware? [/INST] The Spider-I UAV cannot be used for fruit tree mapping without specialized firmware, as it requires specific support. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you confirm the start and end points of the work area? [/INST] The start and end points of the work area are confirmed after clicking the 'Start Operation' button. </s>"
+    },
+    {
+        "question": "<s>[INST] What kind of support is available for users who need specialized firmware for the fruit tree mode? [/INST] Technical support is available for users who need specialized firmware for the fruit tree mode, and they can be contacted to obtain the necessary firmware. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the flight controller in the Spider-I UAV operation? [/INST] The flight controller plays a crucial role in the Spider-I UAV operation, as it receives the uploaded flight route and guides the drone during operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the key parameters that users should adjust in the Agricultural Settings of the Spider-I UAV? [/INST] The key parameters that users should adjust in the Agricultural Settings of the Spider-I UAV include pesticide medium, return to home altitude increment, return to home speed, motor idle speed, and execution action settings, among others, to optimize the drone's performance for specific agricultural tasks. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Return to Home Altitude Increment setting in the App Settings? [/INST] The Return to Home Altitude Increment setting in the App Settings allows users to adjust the altitude at which the drone returns to its home location, ensuring a safe and controlled landing. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Motor Idle Speed setting affect the performance of the Spider-I UAV? [/INST] The Motor Idle Speed setting affects the performance of the Spider-I UAV by determining the speed at which the motors operate when the drone is not in active flight, which can impact battery life and overall efficiency. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the Execution Action Settings in the Common Settings? [/INST] The Execution Action Settings in the Common Settings enable users to configure the drone's behavior in response to specific events or commands, such as obstacle avoidance or waypoint navigation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the difference between Auto Line Change and Manual AB Point settings in the AB Point Settings? [/INST] The Auto Line Change setting in the AB Point Settings allows the drone to automatically switch between two predefined points, while the Manual AB Point setting requires the user to manually intervene and adjust the drone's trajectory. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Speed Limit setting in the Position Hold Mode affect the drone's flight? [/INST] The Speed Limit setting in the Position Hold Mode restricts the drone's speed to a predetermined value, ensuring that the drone operates within a safe and controlled environment. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the Autonomous Takeoff Height setting in the Autonomous Operation mode? [/INST] The Autonomous Takeoff Height setting in the Autonomous Operation mode determines the altitude at which the drone takes off and begins its autonomous flight, which is critical for ensuring safe and efficient operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Flow Meter Measurement Coefficient in the Flow Meter settings? [/INST] The Flow Meter Measurement Coefficient in the Flow Meter settings is used to calibrate the flow meter's measurements, ensuring that the drone accurately dispenses the desired amount of liquid or pesticide. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the Liquid Level Meter Protection Switch contribute to the overall safety of the Spider-I UAV? [/INST] The Liquid Level Meter Protection Switch contributes to the overall safety of the Spider-I UAV by preventing the drone from operating when the liquid level is too low, which can help prevent accidents and damage to the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the relationship between the Flow Speed Control and the Number of Flow Meters in the Spraying Mode? [/INST] The Flow Speed Control is directly related to the Number of Flow Meters in the Spraying Mode, as the flow speed control setting determines the rate at which the liquid is dispensed, and the number of flow meters determines the total amount of liquid that can be dispensed. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary function of the weight sensor in the Spider-I UAV User Manual for Agricultural Drones? [/INST] The primary function of the weight sensor in the Spider-I UAV User Manual for Agricultural Drones is to provide mass protection and flow control, ensuring the drone's safe and efficient operation. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the mass protection switch contribute to the overall safety of the drone? [/INST] The mass protection switch is a critical safety feature that prevents the drone from operating with an overweight payload, thereby reducing the risk of accidents and damage. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the flow control feature in the weight sensor settings? [/INST] The flow control feature in the weight sensor settings allows for precise regulation of the flow rate, enabling the drone to optimize its performance and achieve the desired outcomes in agricultural applications. </s>"
+    },
+    {
+        "question": "<s>[INST] Can you explain the concept of overweight unlock check and its significance in the drone's operation? [/INST] The overweight unlock check is a safety mechanism that prevents the drone from taking off or operating with an excessive payload, and it is essential for ensuring the drone's stability and control during flight. </s>"
+    },
+    {
+        "question": "<s>[INST] How does the flow meter closed-loop control proportional coefficient impact the drone's performance? [/INST] The flow meter closed-loop control proportional coefficient plays a crucial role in the drone's performance, as it enables the system to adjust the flow rate in real-time, maintaining a stable and consistent output. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the pump parameter settings in spraying mode, and how do they affect the drone's functionality? [/INST] The pump parameter settings in spraying mode are critical for the drone's functionality, as they determine the speed-dependent spraying patterns, pump delay start time, and centrifuge delay off time, all of which impact the drone's overall efficiency and effectiveness. </s>"
+    },
+    {
+        "question": "<s>[INST] How do the front and rear pumps/port 1-1, 1-2 settings contribute to the drone's overall efficiency? [/INST] The front and rear pumps/port 1-1, 1-2 settings enable the drone to optimize its spraying or spreading patterns, allowing for more precise and targeted application of pesticides or fertilizers, which enhances the drone's overall efficiency and reduces waste. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the pesticide medium function, and how does it facilitate easy retrieval of calibration results? [/INST] The pesticide medium function is a convenient feature that allows users to save and retrieve calibration results for the flow meter or spreader, making it easier to switch between different pesticides or fertilizers and ensuring consistent application rates. </s>"
+    },
+    {
+        "question": "<s>[INST] Can you describe the process of creating a new pesticide medium in spraying mode, and what parameters are involved? [/INST] Creating a new pesticide medium in spraying mode involves calibrating the flow meter, naming the medium, and saving the calibration results, which can then be easily retrieved and applied in future operations. </s>"
+    },
+    {
+        "question": "<s>[INST] How do the spreading mode settings, such as the spreader's maximum amount, impact the creation of a new pesticide medium? [/INST] The spreading mode settings, such as the spreader's maximum amount, are critical for creating a new pesticide medium, as they determine the optimal application rates and patterns for the specific pesticide or fertilizer being used, and these settings can be adjusted and saved for future use. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Port Customization feature in the Spider-I UAV User Manual? [/INST] The Port Customization feature allows users to flexibly configure connections for various equipment, such as pumps and centrifugal nozzles, to the flight controller. </s>"
+    },
+    {
+        "question": "<s>[INST] How do the AUX1 and AUX2 ports relate to the main control NOZ/PUMP ports? [/INST] The AUX1 and AUX2 ports correspond to the main control NOZ/PUMP ports, with AUX1/2 corresponding to the short/long ports. </s>"
+    },
+    {
+        "question": "<s>[INST] What types of equipment can be connected to the AUX3 and AUX4 ports? [/INST] The AUX3 and AUX4 ports correspond to the standard expansion dock pump 1/pump 2 ports, and can be used to connect pumps, centrifuges, spreaders, and spinner disks. </s>"
+    },
+    {
+        "question": "<s>[INST] In spraying mode, how can the AUX1-4 ports be assigned? [/INST] In spraying mode, the AUX1-4 ports can be freely assigned as front pump, rear pump, front centrifuge, or rear centrifuge. </s>"
+    },
+    {
+        "question": "<s>[INST] What is an example configuration for front and rear pumps and centrifugal nozzles in spraying mode? [/INST] For example, in spraying mode, if front and rear pumps are connected to the flight controller PUMP and expansion dock pump 1 ports, and front and rear centrifugal nozzles are connected to the flight controller NOZ and expansion dock pump 2 ports, AUX1 can be defined as the front pump, AUX3 as the rear pump, AUX2 as the front centrifuge, and AUX4 as the rear centrifuge. </s>"
+    },
+    {
+        "question": "<s>[INST] How do the AUX1-4 ports function in spreading mode? [/INST] In spreading mode, the AUX1-4 ports can be assigned as 1-1, 1-2, 2-1, 2-2, allowing users to connect equipment such as outlet valves and spinner disks. </s>"
+    },
+    {
+        "question": "<s>[INST] What equipment can be connected to the AUX1-4 ports in spreading mode? [/INST] In spreading mode, users can connect equipment such as outlet valves and spinner disks to the AUX1-4 ports, defining them accordingly. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the front and rear pump functions be turned off in spreading mode? [/INST] Yes, the front and rear pump functions can be turned off in spreading mode, allowing users to configure the system for spreading operations. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users assign names and functions to connected equipment in the APP? [/INST] Users can assign names and functions to connected equipment in the APP, allowing for flexible configuration and control of the system. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the benefit of being able to freely assign AUX1-4 ports in spraying and spreading modes? [/INST] The ability to freely assign AUX1-4 ports in spraying and spreading modes provides users with flexibility and customization options, allowing them to configure the system to meet their specific needs. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of custom port settings in the Spider-I UAV? [/INST] The purpose of custom port settings in the Spider-I UAV is to allow users to assign port functions based on actual needs, supporting various spraying and spreading functions. </s>"
+    },
+    {
+        "question": "<s>[INST] How do port names like front pump and rear pump support spraying functions? [/INST] Port names like front pump and rear pump support spraying functions by allowing for opening degree and speed-dependent spraying control. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the difference between flow control and mass control in spraying mode? [/INST] In spraying mode, flow control under the flow meter allows for control of the flow rate, while mass control under weighing allows for control of the amount of substance sprayed per unit area. </s>"
+    },
+    {
+        "question": "<s>[INST] Can mass control under weighing be used for control per acre in spraying mode? [/INST] No, mass control under weighing can only be used for control per acre in spreading mode, not in spraying mode. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of safety settings in the Spider-I UAV? [/INST] The purpose of safety settings in the Spider-I UAV is to ensure the safe operation of the drone, including settings for battery voltage and capacity alarm thresholds. </s>"
+    },
+    {
+        "question": "<s>[INST] How do smart batteries trigger alarm actions in the ground station? [/INST] Smart batteries trigger alarm actions in the ground station by activating both voltage and capacity alarm thresholds, which are set in the ground station and triggered in a specific order. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of low voltage alarm battery type settings? [/INST] The purpose of low voltage alarm battery type settings is to correctly trigger the low voltage alarm function for non-smart batteries, such as 13S, 14S, 16S, 18S, 24S, and 28S. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens if the parameters for non-smart batteries are not set correctly? [/INST] If the parameters for non-smart batteries are not set correctly, the voltage alarm function will be abnormal, which can lead to unsafe operation of the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users of non-smart batteries ensure the voltage alarm function works normally? [/INST] Users of non-smart batteries can ensure the voltage alarm function works normally by setting the corresponding parameters and restarting the flight controller to apply the changes. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the procedure to apply the settings for non-smart batteries in the Spider-I UAV? [/INST] To apply the settings for non-smart batteries in the Spider-I UAV, users need to set the parameters, write them in, and restart the flight controller to take effect. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the default maximum flight height of the Spider-I UAV when flight restrictions are not activated? [/INST] The default maximum flight height of the Spider-I UAV is 30 meters when flight restrictions are not activated. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the different unlock permission settings available in the flight restrictions menu? [/INST] The unlock permission settings available in the flight restrictions menu are 'Low', 'Medium', and 'High'. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the RTK status in the unlock permission settings? [/INST] The RTK status is used to determine the unlocking permissions of the Spider-I UAV, with different settings requiring the aircraft to be in RTK status or have a normal RTK heading. </s>"
+    },
+    {
+        "question": "<s>[INST] How many common frame types are available for settings in the Spider-I UAV? [/INST] There are eleven common frame types available for settings in the Spider-I UAV, along with a motor test function. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the motor test function in the frame settings? [/INST] The motor test function in the frame settings is used to test the motors of the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the Spider-I UAV be unlocked when it is not in RTK status and not using RTK heading? [/INST] Yes, the Spider-I UAV can be unlocked when it is not in RTK status and not using RTK heading, but only when the permission setting is set to 'Low'. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the difference between the 'Low', 'Medium', and 'High' unlock permission settings? [/INST] The 'Low', 'Medium', and 'High' unlock permission settings differ in the requirements for unlocking the Spider-I UAV, with 'Low' requiring no RTK status or heading, 'Medium' requiring RTK status, and 'High' requiring both RTK status and a normal RTK heading. </s>"
+    },
+    {
+        "question": "<s>[INST] Is the RTK heading required for unlocking the Spider-I UAV when the permission setting is set to 'Medium'? [/INST] No, the RTK heading is not required for unlocking the Spider-I UAV when the permission setting is set to 'Medium', only RTK status is required. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens to the maximum flight height of the Spider-I UAV when flight restrictions are activated? [/INST] When flight restrictions are activated, the maximum flight height of the Spider-I UAV will follow the set parameters, rather than the default 30 meters. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the unlock permission settings be changed when the Spider-I UAV is in flight? [/INST] The unlock permission settings can only be changed when the Spider-I UAV is not in flight, as part of the flight restrictions settings. </s>"
+    },
+    {
+        "question": "<s>[INST] What is required to switch the frame type in the Spider-I UAV? [/INST] To switch the frame type, the flight controller needs to be restarted. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if a motor does not spin during motor testing? [/INST] If a motor does not spin during motor testing, try increasing the throttle for testing. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important to remove the propellers before using the motor test function? [/INST] The propellers should be removed before using the motor test function to prevent any potential damage or injury. </s>"
+    },
+    {
+        "question": "<s>[INST] What installation settings are supported by the Spider-I UAV? [/INST] The Spider-I UAV supports settings for attitude angle, main control installation direction, and yaw correction. </s>"
+    },
+    {
+        "question": "<s>[INST] How can corrections for the installation positions of GPS, main control, and RTK antennas be made? [/INST] Corrections for the installation positions of GPS, main control, and RTK antennas can be made by enabling the advanced settings and adjusting the parameters. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the reference point for the aircraft's coordinate system? [/INST] The reference point for the aircraft's coordinate system is based on the aircraft's center, with the positive direction being the front of the aircraft (X-axis) and the right side of the aircraft (Y-axis). </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of calibration settings in the Spider-I UAV? [/INST] The purpose of calibration settings is to ensure accurate and stable flight, and includes calibration for the remote controller, accelerometer, level correction, dynamic balance testing, flow meter calibration, and weight calibration. </s>"
+    },
+    {
+        "question": "<s>[INST] How can the control mode of the remote controller be changed? [/INST] The control mode of the remote controller can be changed via the app, but it is necessary to confirm if the remote controller's firmware supports this change before making any changes. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the necessary step before calibrating the remote controller? [/INST] Before calibrating the remote controller, it is necessary to ensure each channel's position and range is fixed at 1050-1950. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the range of values for each channel's position and range during remote controller calibration? [/INST] The range of values for each channel's position and range during remote controller calibration is 1050-1950. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the first step in calibrating the flow meter in the Spider-I UAV? [/INST] The first step in calibrating the flow meter is to click the reset button on the current data in the job statistics on the main page to reset the current medication volume data to zero. </s>"
+    },
+    {
+        "question": "<s>[INST] How do you prepare the medicine tank for operation after calibration? [/INST] After calibration, you should tare the container's weight before adding the medication medium to the medicine box or feed tank, and then start the operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the tare function in the weight calibration process? [/INST] The tare function is used to exclude the container's weight before placing a known weight on the weighing sensor for calibration. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the upper limit for tare weight in the Spider-I UAV system? [/INST] The upper limit for tare weight is the weight of the medicine tank plus 1 kg. </s>"
+    },
+    {
+        "question": "<s>[INST] What feature allows users to adjust the sensitivity of the flight control parameters? [/INST] The control sensitivity feature allows users to adjust the sensitivity of roll, pitch, yaw, height, throttle, and remote controller parameters. </s>"
+    },
+    {
+        "question": "<s>[INST] Who is the control sensitivity feature suitable for? [/INST] The control sensitivity feature is suitable for users familiar with flight control sensitivity parameters. </s>"
+    },
+    {
+        "question": "<s>[INST] What information is displayed in the 'About' section of the system settings? [/INST] The 'About' section displays information about the ground station, flight control firmware, as well as the flight controller number and usage time. </s>"
+    },
+    {
+        "question": "<s>[INST] How can firmware upgrades for the flight controller be done? [/INST] Firmware upgrades for the flight controller can be done in two ways: via WeChat files and server download. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when the 'Firmware Upgrade' option via WeChat is selected? [/INST] When the 'Firmware Upgrade' option via WeChat is selected, the app automatically opens the default WeChat file path. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important to tare the container's weight before adding the medication medium? [/INST] It is important to tare the container's weight before adding the medication medium to ensure accurate weight measurements and to prevent errors during operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the firmware update channel selection in the Spider-I UAV User Manual? [/INST] The firmware update channel selection in the Spider-I UAV User Manual allows users to update their drone's firmware to the latest version, ensuring they have the latest features and bug fixes. </s>"
+    },
+    {
+        "question": "<s>[INST] How do server upgrades affect the firmware of the agricultural drone? [/INST] Server upgrades automatically fetch and update the latest firmware for the agricultural drone, which may take some time depending on the link quality. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens if the firmware update process is interrupted or fails? [/INST] If the firmware update process is interrupted or fails, the upgrade must be redone for the drone to function properly. </s>"
+    },
+    {
+        "question": "<s>[INST] What types of devices are supported by the firmware upgrade? [/INST] The firmware upgrade supports devices such as T12, H12, MK15, and other compatible models, but users should contact technical support if they are unsure about their device model. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if there is doubt about the upgrade of a specific device model? [/INST] If there is doubt about the upgrade of a specific device model, users should contact technical support for confirmation before proceeding with the update. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the Advanced Settings in the Settings menu? [/INST] The Advanced Settings in the Settings menu provide more tuning information and options for customizing the drone's performance when enabled. </s>"
+    },
+    {
+        "question": "<s>[INST] What information is available when the Advanced Settings are enabled? [/INST] When the Advanced Settings are enabled, more detailed information about the drone's configuration and performance is available for users to adjust and optimize. </s>"
+    },
+    {
+        "question": "<s>[INST] Can the firmware be updated using WeChat files, and are there any precautions to take? [/INST] Yes, the firmware can be updated using WeChat files, but users should not change the default WeChat file directory during the update process to avoid any issues. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the contactor in the aircraft, and how does it relate to the firmware update? [/INST] The contactor is an optional component that can be installed on the aircraft, and its function is related to the firmware update, but its specific role is not explicitly stated in the provided context. </s>"
+    },
+    {
+        "question": "<s>[INST] How will the user be notified when new flight control firmware or 4G firmware versions are available? [/INST] When new flight control firmware or 4G firmware versions are available, update prompts and content will automatically pop up to notify the user and guide them through the update process. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the contactor icon on the main page of the Spider-I UAV User Manual? [/INST] The contactor icon on the main page of the Spider-I UAV User Manual displays the on/off status of the contactor, allowing users to view its current state. </s>"
+    },
+    {
+        "question": "<s>[INST] How can the aircraft position be fixed at the center of the screen in the Spider-I UAV? [/INST] The Aircraft Position Lock feature allows the aircraft to be fixed at the center of the screen, providing a stable reference point for navigation. </s>"
+    },
+    {
+        "question": "<s>[INST] What map options are available for selection in the Spider-I UAV User Manual? [/INST] The Spider-I UAV User Manual offers options to choose between Amap or Google Maps, providing users with flexibility in their mapping preferences. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the different area units supported by the Spider-I UAV? [/INST] The Spider-I UAV supports multiple area units, including mu, hectares, square meters, fen, and rai, catering to different regional measurement standards. </s>"
+    },
+    {
+        "question": "<s>[INST] Where is the Personal Center page located in the Spider-I UAV User Manual? [/INST] The Personal Center page is located at the top right corner of the homepage and can be accessed by clicking the personal center icon. </s>"
+    },
+    {
+        "question": "<s>[INST] What information can be accessed through the Personal Center page? [/INST] The Personal Center page links all information associated with the APP login account and provides access to some flight control related functions. </s>"
+    },
+    {
+        "question": "<s>[INST] How can a user modify their personal information in the Spider-I UAV? [/INST] A user can modify their personal information in the Spider-I UAV by clicking the avatar area at the top left of the Personal Center page and entering the personal information editing page. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the function of the avatar area at the top left of the Personal Center page? [/INST] The avatar area at the top left of the Personal Center page allows users to enter the personal information editing page, where they can modify their personal details. </s>"
+    },
+    {
+        "question": "<s>[INST] Can a user change their account password through the Personal Center page? [/INST] Yes, a user can change their account password through the Personal Center page, which provides a convenient way to manage account settings. </s>"
+    },
+    {
+        "question": "<s>[INST] What types of files can be uploaded as attachments in the Personal Center page? [/INST] The Personal Center page allows users to upload attachments, which can include various types of files, although the specific file types supported are not specified in the manual. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the first step for a pilot to access a plant protection team after registering a pilot account? [/INST] The first step for a pilot to access a plant protection team after registering a pilot account is to successfully apply and join a company. </s>"
+    },
+    {
+        "question": "<s>[INST] How does a pilot apply to join a company or team in the Spider-I UAV system? [/INST] A pilot applies to join a company or team by clicking the corresponding add button next to the company or team name and entering their account or phone number to submit an application. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens to a pilot's application to join a plant protection team if they are already registered under a company? [/INST] If a pilot is already registered under a company, the plant protection team will review their application to join the team. </s>"
+    },
+    {
+        "question": "<s>[INST] Who reviews applications to join a plant protection team? [/INST] Applications to join a plant protection team are directly reviewed by the company. </s>"
+    },
+    {
+        "question": "<s>[INST] What action should a pilot take to submit an application to join a company or team? [/INST] To submit an application to join a company or team, a pilot should click the add button next to the company or team name and enter their account or phone number. </s>"
+    },
+    {
+        "question": "<s>[INST] What information is required to submit an application to join a company or team? [/INST] The information required to submit an application to join a company or team is the pilot's account or phone number. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the outcome of a successful application to join a company or team? [/INST] The outcome of a successful application to join a company or team is that the addition is successful once the company or team approves. </s>"
+    },
+    {
+        "question": "<s>[INST] Can a pilot join multiple companies or teams in the Spider-I UAV system? [/INST] The Spider-I UAV system allows pilots to join multiple companies or teams, but the application and approval process must be completed for each company or team separately. </s>"
+    },
+    {
+        "question": "<s>[INST] How does a company or team receive an application from a pilot in the Spider-I UAV system? [/INST] A company or team receives an application from a pilot in the Spider-I UAV system when the pilot clicks the add button next to the company or team name and submits their application. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the add button next to the company or team name in the Spider-I UAV system? [/INST] The purpose of the add button next to the company or team name in the Spider-I UAV system is to allow pilots to submit an application to join the company or team. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Work Data interface in the Spider-I UAV User Manual? [/INST] The Work Data interface in the Spider-I UAV User Manual allows users to view all work data associated with their account's connected devices. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users access the work data interface in the Personal Center? [/INST] Users can access the work data interface by clicking on 'Work Data' in the Personal Center. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the default view mode for work data in the Spider-I UAV User Manual? [/INST] The default view mode for work data in the Spider-I UAV User Manual is list mode. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the benefit of switching to map mode in the work data interface? [/INST] Switching to map mode in the work data interface allows users to view overall flight paths, providing a more visual representation of their data. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users select a desired time period to view work data? [/INST] Users can select a desired time period to view work data by using the time period selection feature in the work data interface. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of data can be viewed in the work data interface? [/INST] The work data interface allows users to view various types of data, including operation data and flight paths. </s>"
+    },
+    {
+        "question": "<s>[INST] Can users view flight paths in the list mode? [/INST] No, users cannot view flight paths in the list mode, they need to switch to map mode to view overall flight paths. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the relationship between the account's connected devices and the work data interface? [/INST] The work data interface is connected to the account's connected devices, allowing users to view data from all their devices in one place. </s>"
+    },
+    {
+        "question": "<s>[INST] How do users switch between list mode and map mode in the work data interface? [/INST] Users can switch between list mode and map mode in the work data interface by using the mode selection feature. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the significance of the Personal Center in the Spider-I UAV User Manual? [/INST] The Personal Center in the Spider-I UAV User Manual is a central location where users can access various features, including the work data interface, to manage their account and devices. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Work Data feature in the Spider-I UAV User Manual? [/INST] The Work Data feature displays all operations of all aircraft under the account, allowing users to filter, search, and export operation data. </s>"
+    },
+    {
+        "question": "<s>[INST] How can users filter and search for specific operations in the work list? [/INST] Users can filter and search for specific operations in the work list by using the built-in filtering and search functions provided in the Work Data feature. </s>"
+    },
+    {
+        "question": "<s>[INST] What format can users export their operation data in? [/INST] Users can export their operation data in EXCEL format, which can be useful for further analysis or record-keeping. </s>"
+    },
+    {
+        "question": "<s>[INST] What information can be viewed when switching to the map tab in the Work Data feature? [/INST] When switching to the map tab, users can view the trajectory of all operations listed, providing a visual representation of the aircraft's flight paths. </s>"
+    },
+    {
+        "question": "<s>[INST] What happens when a user clicks 'Show' in the work list? [/INST] Clicking 'Show' enters a page for detailed information about a single operation, allowing users to access more specific data and insights. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of the Log Download feature in the Personal Center? [/INST] The Log Download feature allows users to download log files, which can be useful for troubleshooting or analyzing flight data. </s>"
+    },
+    {
+        "question": "<s>[INST] What is required to download a log file in the Personal Center? [/INST] To download a log file, users must select a log file from the download list and confirm their selection, after which the file will be downloaded. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it necessary to restart the flight control after downloading a log file? [/INST] Restarting the flight control after downloading a log file is necessary to ensure that the aircraft's systems are updated and functioning properly. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the relationship between log download and aircraft unlock status? [/INST] The aircraft cannot be unlocked during log download, and if the aircraft is unlocked, log download is not possible, indicating a relationship between the two states. </s>"
+    },
+    {
+        "question": "<s>[INST] What version of the APP adds the log download feature? [/INST] Version V3.6 of the APP adds the log download feature, providing users with a new tool for managing and analyzing their flight data. </s>"
+    },
+    {
+        "question": "<s>[INST] What factors affect the download speed of log files in the Spider-I UAV? [/INST] The download speed of log files in the Spider-I UAV depends on the remote controller and link device used, with the H12 remote controller supporting high-speed downloads. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the minimum flight control firmware version required for log download? [/INST] The minimum flight control firmware version required for log download is version 3.5.1 or higher. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if the log file download is interrupted? [/INST] If the log file download is interrupted, the download should be restarted. </s>"
+    },
+    {
+        "question": "<s>[INST] Where are downloaded log files saved by default? [/INST] Downloaded log files are saved in the device file path BoyingGCS_DroneLogs by default. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of offline map mode in the Spider-I UAV? [/INST] The purpose of offline map mode in the Spider-I UAV is to enable the loading of cached map areas even without a network connection. </s>"
+    },
+    {
+        "question": "<s>[INST] How are map files cached when using Google Maps in offline mode? [/INST] When using Google Maps in offline mode, the current display area's map files are automatically cached when the network is smooth. </s>"
+    },
+    {
+        "question": "<s>[INST] Can cached map areas be loaded without a network connection? [/INST] Yes, cached map areas can be loaded without a network connection, allowing for continued use of the map functionality. </s>"
+    },
+    {
+        "question": "<s>[INST] How can the map cache be cleared if necessary? [/INST] The map cache can be cleared if necessary, providing an option to manage stored map data. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the difference in download speeds between the H12 remote controller and other devices? [/INST] The H12 remote controller supports high-speed downloads, while other devices use standard download rates. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the default setting for offline map mode when using Google Maps? [/INST] Offline map mode is enabled by default when using Google Maps, allowing for automatic caching of map files when the network is smooth. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the minimum distance the pilot should maintain from the drone during flight? [/INST] The pilot should maintain a distance of more than 10 meters from the drone during flight to ensure safety. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary reason for avoiding high-voltage lines and steel structures during drone takeoff and landing? [/INST] The primary reason for avoiding high-voltage lines and steel structures during drone takeoff and landing is to prevent accidents and ensure the safety of the drone and its surroundings. </s>"
+    },
+    {
+        "question": "<s>[INST] What are considered sensitive areas from a national security perspective? [/INST] Sensitive areas from a national security perspective include military bases, special agency locations, nuclear power plants, border lines, political center areas, and military exercise areas. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important to avoid operating drones in sensitive areas? [/INST] It is essential to avoid operating drones in sensitive areas to prevent accidents and ensure legality and safety. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the radius of the protected area on either side of a runway where flying is prohibited? [/INST] The radius of the protected area on either side of a runway where flying is prohibited is 10 km, and 20 km at runway ends, based on airspace protection regulations. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be performed on the drone if it has been idle for a long time or moved over a long distance? [/INST] If the drone has been idle for a long time or moved over a long distance, a compass calibration should be performed to avoid anomalies and ensure proper functioning. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of confirming the joystick mode before taking off? [/INST] Confirming the joystick mode before taking off is crucial to prevent errors and ensure smooth operation of the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What can happen if the remote control or battery is not fully charged during flight? [/INST] If the remote control or battery is not fully charged during flight, it can lead to loss of control due to low battery, which can result in accidents or damage to the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the benefit of conducting a thorough pre-flight check? [/INST] Conducting a thorough pre-flight check can significantly lower the probability of encountering problems during flight, ensuring a safe and successful operation. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the minimum distance spectators should maintain from the drone during flight? [/INST] Spectators should maintain a distance of more than 100 meters from the drone during flight to ensure their safety and prevent any potential hazards. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the first step in maintaining the medicine tank of an agricultural drone? [/INST] The first step in maintaining the medicine tank of an agricultural drone is to fill it with clean water or soapy water, fully spray it out, and repeat this washing process three times. </s>"
+    },
+    {
+        "question": "<s>[INST] How often should the propeller blades be checked for cracks? [/INST] The propeller blades should be checked for cracks daily as part of the daily maintenance routine. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended method for cleaning the battery and its connectors? [/INST] The recommended method for cleaning the battery and its connectors is by using a cotton swab dipped in alcohol to remove all surface contaminants. </s>"
+    },
+    {
+        "question": "<s>[INST] What tool is used to clean the drone body? [/INST] A soft brush or damp cloth is used to clean the drone body. </s>"
+    },
+    {
+        "question": "<s>[INST] How should the propeller clamps and motor be cleaned? [/INST] The propeller clamps and motor should be cleaned using a soft brush or damp cloth, and then dried with a dry cloth. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the purpose of soaking the filter and nozzle in clean water for 12 hours? [/INST] Soaking the filter and nozzle in clean water for 12 hours ensures they are not clogged and are properly cleaned. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of water is recommended for filling the medicine tank? [/INST] Clean water or soapy water is recommended for filling the medicine tank. </s>"
+    },
+    {
+        "question": "<s>[INST] How many times should the washing process be repeated for the medicine tank? [/INST] The washing process for the medicine tank should be repeated three times. </s>"
+    },
+    {
+        "question": "<s>[INST] What is used to remove water stains from the propeller blades? [/INST] A dry cloth is used to remove water stains from the propeller blades. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the importance of cleaning the battery and its connectors with a cotton swab dipped in alcohol? [/INST] Cleaning the battery and its connectors with a cotton swab dipped in alcohol is important to remove all surface contaminants and ensure proper functioning of the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the primary hazards associated with pesticides in agricultural drone operations? [/INST] The primary hazards associated with pesticides in agricultural drone operations include environmental pollution and risks to human health, such as acute poisoning and long-term health threats. </s>"
+    },
+    {
+        "question": "<s>[INST] How can pesticides enter the human body during the spraying process? [/INST] Pesticides can enter the human body through inhalation and skin penetration during the spraying process, posing a significant health risk. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the risk of long-term contact with objects contaminated with pesticide residues? [/INST] Long-term contact with objects contaminated with pesticide residues can lead to accumulation in the body, resulting in a potential health threat. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of pesticides should be handled with caution to avoid direct skin contact? [/INST] Some pesticides are corrosive and should be avoided from direct contact with the skin to prevent burns and other injuries. </s>"
+    },
+    {
+        "question": "<s>[INST] What precaution is necessary when handling propeller blades, even when they are stationary? [/INST] Caution is needed when handling propeller blades, even when they are stationary, to prevent cuts from the sharp edges. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the potential danger of the propellers when rotating at high speed? [/INST] The propellers have a strong cutting force when rotating at high speed, and maintaining a safe distance during flight is crucial to avoid accidental injuries. </s>"
+    },
+    {
+        "question": "<s>[INST] What is an effective way to minimize environmental pollution from pesticide packaging waste? [/INST] Controlling the disposal of pesticide packaging waste is an effective way to minimize environmental pollution and reduce the risk of contamination. </s>"
+    },
+    {
+        "question": "<s>[INST] How can the risk of pesticide misuse be reduced during application? [/INST] Adjusting the structure, method, and amount of pesticide application can help reduce the risk of misuse and unscientific use, thereby minimizing potential hazards. </s>"
+    },
+    {
+        "question": "<s>[INST] What personal protective equipment is recommended for individuals applying pesticides? [/INST] Using appropriate protective gear, such as gas masks and chemical protective suits, is recommended for individuals applying pesticides to prevent exposure and ensure personal cleanliness. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended course of action in case of pesticide poisoning? [/INST] In case of pesticide poisoning, moving the patient away from the contaminated area to a cool, ventilated place and inducing vomiting if necessary are crucial steps in providing initial treatment and reducing the risk of further harm. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done immediately if the propeller of the Spider-I UAV is damaged or has notches? [/INST] The propeller should be replaced immediately if it is damaged or has notches, and flying should not continue. </s>"
+    },
+    {
+        "question": "<s>[INST] How can one prevent accidental injuries while operating the Spider-I UAV? [/INST] Maintaining a safe distance between people and the drone, using protective gear, and ensuring the ground is even can help prevent accidental injuries while operating the Spider-I UAV. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the recommended course of action if a person is cut by the propeller of the Spider-I UAV? [/INST] If a person is cut by the propeller, the wound should be treated promptly, and hospital treatment should be sought for serious injuries. </s>"
+    },
+    {
+        "question": "<s>[INST] What precautions should be taken to ensure safe operation of the Spider-I UAV? [/INST] To ensure safe operation of the Spider-I UAV, precautions such as using protective gear, maintaining even ground, and avoiding strong winds or electromagnetic interference should be taken. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if a person is injured while operating the Spider-I UAV and is unconscious? [/INST] If a person is injured while operating the Spider-I UAV and is unconscious, they should not be induced to vomit and should be taken to a hospital as soon as possible. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important to maintain a safe distance between people and the Spider-I UAV during operation? [/INST] Maintaining a safe distance between people and the Spider-I UAV is important to prevent accidental injuries from the propeller or other parts of the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of environment is suitable for operating the Spider-I UAV? [/INST] The Spider-I UAV should be operated in an environment with even ground, no strong winds, and minimal electromagnetic interference. </s>"
+    },
+    {
+        "question": "<s>[INST] What protective gear should be worn during operation of the Spider-I UAV? [/INST] Protective gear such as gloves and safety glasses should be worn during operation of the Spider-I UAV to prevent injuries. </s>"
+    },
+    {
+        "question": "<s>[INST] What should be done if a person is injured while operating the Spider-I UAV and is conscious? [/INST] If a person is injured while operating the Spider-I UAV and is conscious, they should receive prompt medical attention and be taken to a hospital if necessary. </s>"
+    },
+    {
+        "question": "<s>[INST] Why is it important to replace the propeller of the Spider-I UAV immediately if it is damaged or has notches? [/INST] Replacing the propeller of the Spider-I UAV immediately if it is damaged or has notches is important to prevent accidents and ensure safe operation of the drone. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the primary purpose of the Spider-i UAV? [/INST] The primary purpose of the Spider-i UAV is to provide precision and efficiency in plant protection for modern farming. </s>"
+    },
+    {
+        "question": "<s>[INST] How can users access guidance and support for the Spider-i UAV? [/INST] Users can access guidance and support for the Spider-i UAV by contacting the expert team through phone, WhatsApp, or email. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the website of the Spider-i UAV manufacturer? [/INST] The website of the Spider-i UAV manufacturer is https://www.spideruav.com. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the phone number to contact the Spider-i UAV support team? [/INST] The phone number to contact the Spider-i UAV support team is +86 15634441913. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the email address to reach out to the Spider-i UAV team? [/INST] The email address to reach out to the Spider-i UAV team is waynelee@spider-i.com. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the address of the Spider-i UAV manufacturing facility? [/INST] The address of the Spider-i UAV manufacturing facility is Building 10, No. 21 Chuxin Road, Hangzhou, Zhejiang, China. </s>"
+    },
+    {
+        "question": "<s>[INST] What type of farming does the Spider-i UAV cater to? [/INST] The Spider-i UAV caters to modern farming, which involves the use of advanced technology and innovative methods to improve crop yields and reduce costs. </s>"
+    },
+    {
+        "question": "<s>[INST] What are the key benefits of using the Spider-i UAV in agriculture? [/INST] The key benefits of using the Spider-i UAV in agriculture include increased precision, efficiency, and productivity in plant protection. </s>"
+    },
+    {
+        "question": "<s>[INST] How can users purchase the Spider-i UAV? [/INST] Users can purchase the Spider-i UAV through the manufacturer's website or through authorized distributors, such as Alibaba. </s>"
+    },
+    {
+        "question": "<s>[INST] What is the role of the Spider-i UAV in modern farming? [/INST] The Spider-i UAV plays a significant role in modern farming by providing farmers with a reliable and efficient tool for crop monitoring, spraying, and other agricultural tasks. </s>"
+    }
+]
